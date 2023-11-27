@@ -1,0 +1,76 @@
+site_name: Les Paul Classic
+site_description: Gibson Les Paul Classic models
+#site_url: https://pages.git.autodesk.com/entertainment-creation-products/cot-pipeline/
+repo_name: foutoucour/les-paul-classic
+repo_url: https://github.com/foutoucour/les-paul-classic
+#strict: true
+
+nav:
+  - 'index.md'
+  - Pages:
+    - blog/index.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: black
+      accent: deep-orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: deep-orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.tabs.link
+
+  icon:
+    repo: fontawesome/brands/github
+
+#extra:
+#  social:
+#    - icon: fontawesome/brands/slack
+#      link: https://autodesk.slack.com/archives/C01C6FAN62Y
+#      name: cot-ci-support slack channel
+
+plugins:
+#  - git-revision-date
+  - search
+  - blog:
+      blog_toc: true
+      post_url_date_format: yyyy
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.extra
+  - pymdownx.details
+  - toc:
+      permalink: 🔗
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true

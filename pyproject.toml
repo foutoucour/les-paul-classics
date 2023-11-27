@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "les-paul-classics"
+version = "0.1.0"
+description = "Static website about the Gibson Les Paul classic models"
+authors = ["Jordi riera <kender.jr@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.4.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
