@@ -59,7 +59,7 @@ browser = browsers.Firefox(
     **{
         "moz:firefoxOptions": {
             "args": [
-                # "-headless",
+                "-headless",
                 "-log",
                 "{'level': 'warning'}",
             ]
