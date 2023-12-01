@@ -9,7 +9,7 @@ tags:
 
 Part of Gibson's attempt to redesign old classics, the Gibson Les Paul Classic Custom is a recent twist on the old Les Paul Custom design. Taking elements from the original Custom, the Classic Custom features block inlays, multi-layer binding, and the iconic Les Paul Custom headstock. However, the new Les Paul Classic Custom uses a processed maple for the fingerboard, partly due to wood sourcing issues faced by the company.
 
-* **Page**: [Les Paul Classic Custom](https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-custom)
+* **Page**: [Les Paul Classic Custom](https://reverb.com/ca/p/gibson-les-paul-classic-custom)
 * **Collection**: Wanna
 * **Edition**: Limited
 * **Years**: 2012
@@ -20,4 +20,5 @@ Part of Gibson's attempt to redesign old classics, the Gibson Les Paul Classic C
 | Price | Note    |
 |-------|---------|
 | :fontawesome-solid-dollar-sign: $2524 | _Low bracket_ |
+| :heavy_dollar_sign: $3551 | _Average bracket_ |
 | :heavy_dollar_sign: $4579 | _High bracket_ |

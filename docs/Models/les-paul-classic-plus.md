@@ -9,7 +9,7 @@ tags:
 
 Modeled after the Les Paul Classic, which was in turn based off of the 1960 Les Paul, the Gibson Les Paul Classic Plus was manufactured from 1991 to 1997, but returned briefly in 2001. The Classic Plus, like the Classic, features two exposed 496R/500T humbucking pickups, but features a flamed maple top instead of a plain one.
 
-* **Page**: [Les Paul Classic Plus](https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-plus)
+* **Page**: [Les Paul Classic Plus](https://reverb.com/ca/p/gibson-les-paul-classic-plus)
 * **Collection**: Wanna
 * **Edition**: Standard
 * **Years**: 1991 - 2001
@@ -20,4 +20,5 @@ Modeled after the Les Paul Classic, which was in turn based off of the 1960 Les 
 | Price | Note    |
 |-------|---------|
 | :fontawesome-solid-dollar-sign: $2394 | _Low bracket_ |
+| :heavy_dollar_sign: $3406 | _Average bracket_ |
 | :heavy_dollar_sign: $4418 | _High bracket_ |

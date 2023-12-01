@@ -2,7 +2,6 @@
 tags:
   - Guitar
   - Available
-  - Good Deal
 ---
 
 # :hot_pepper: 1994 Gibson Les Paul Classic Plus Heritage Cherry Sunburst ~Video~
@@ -18,4 +17,5 @@ tags:
 |-------|-----------|-------|---------|
 | :fontawesome-solid-comments-dollar: $3547 | $212 | $3759 | |
 | :fontawesome-solid-dollar-sign: _$2394_ | _$212_ | _$2606_ | _Low bracket_ |
+| _$3406_ | _$212_ | _$3618_ | _Average bracket_ |
 | :heavy_dollar_sign: _$4418_ | _$212_ | _$4630_ | _High bracket_ |

@@ -18,4 +18,5 @@ tags:
 |-------|-----------|-------|---------|
 | :fontawesome-solid-comments-dollar: $4147 | $96 | $4243 | |
 | :fontawesome-solid-dollar-sign: _$1895_ | _$96_ | _$1991_ | _Low bracket_ |
+| _$2364_ | _$96_ | _$2460_ | _Average bracket_ |
 | :heavy_dollar_sign: _$2834_ | _$96_ | _$2930_ | _High bracket_ |

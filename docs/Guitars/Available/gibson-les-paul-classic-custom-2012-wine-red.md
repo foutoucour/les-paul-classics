@@ -3,7 +3,6 @@ tags:
   - Guitar
   - Available
   - Accept Offers
-  - Good Deal
 ---
 
 # :accept: :hot_pepper: Gibson Les Paul Classic Custom 2012 - wine red
@@ -19,4 +18,5 @@ tags:
 |-------|-----------|-------|---------|
 | :fontawesome-solid-comments-dollar: $3608 | $405 | $4013 | |
 | :fontawesome-solid-dollar-sign: _$2524_ | _$405_ | _$2929_ | _Low bracket_ |
+| _$3551_ | _$405_ | _$3956_ | _Average bracket_ |
 | :heavy_dollar_sign: _$4579_ | _$405_ | _$4984_ | _High bracket_ |

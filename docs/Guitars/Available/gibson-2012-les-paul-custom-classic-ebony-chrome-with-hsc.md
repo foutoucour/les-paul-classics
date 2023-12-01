@@ -3,7 +3,6 @@ tags:
   - Guitar
   - Available
   - Accept Offers
-  - Good Deal
 ---
 
 # :accept: :hot_pepper: Gibson 2012 Les Paul Custom Classic Ebony/Chrome with HSC
@@ -19,4 +18,5 @@ tags:
 |-------|-----------|-------|---------|
 | :fontawesome-solid-comments-dollar: $4542 | $113 | $4655 | |
 | :fontawesome-solid-dollar-sign: _$2524_ | _$113_ | _$2637_ | _Low bracket_ |
+| _$3551_ | _$113_ | _$3664_ | _Average bracket_ |
 | :heavy_dollar_sign: _$4579_ | _$113_ | _$4692_ | _High bracket_ |

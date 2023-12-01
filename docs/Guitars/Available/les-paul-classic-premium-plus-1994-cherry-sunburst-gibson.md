@@ -4,7 +4,6 @@ tags:
   - Available
   - Accept Offers
   - Price Drop
-  - Good Deal
 ---
 
 # :accept: :arrow_down_small: :hot_pepper: Les Paul Classic Premium Plus 1994 Cherry Sunburst Gibson
@@ -20,5 +19,6 @@ tags:
 |-------|-----------|-------|---------|
 | :fontawesome-solid-comments-dollar: {--$4510--} | {--$315--} | {--$4825--} | |
 | :fontawesome-solid-comments-dollar: $3969 | $315 | $4284 | |
-| :fontawesome-solid-dollar-sign: _$2699_ | _$315_ | _$3014_ | _Low bracket_ |
+| :fontawesome-solid-dollar-sign: _$485_ | _$315_ | _$800_ | _Low bracket_ |
+| _$2703_ | _$315_ | _$3018_ | _Average bracket_ |
 | :heavy_dollar_sign: _$4922_ | _$315_ | _$5237_ | _High bracket_ |

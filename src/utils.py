@@ -56,7 +56,15 @@ defined_models_urls = {
 }
 service = services.Geckodriver(log_file=os.devnull)
 browser = browsers.Firefox(
-    **{"moz:firefoxOptions": {"args": ["-headless", "-log", "{'level': 'warning'}"]}}
+    **{
+        "moz:firefoxOptions": {
+            "args": [
+                # "-headless",
+                "-log",
+                "{'level': 'warning'}",
+            ]
+        }
+    }
 )
 
 current_folder = Path(__file__).parent
