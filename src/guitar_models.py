@@ -8,7 +8,7 @@ import yaml
 from arsenic import Service, Browser, get_session, Session
 from arsenic.errors import NoSuchElement, ArsenicTimeout
 from loguru import logger
-from pydantic import BaseModel, field_validator
+from pydantic import BaseModel
 from slugify import slugify
 
 from src.utils import price_to_int, Year, template_environment, current_folder
@@ -82,13 +82,6 @@ class GuitarModel(BaseModel):
     year: Year
     price_guide: Optional[PriceGuide] = None
     finishes: List[str]
-
-    @field_validator("url")
-    @classmethod
-    def update_url(cls, value, _):
-        if value:
-            return f"https://reverb.com{value}"
-        return value
 
     @classmethod
     async def get_from_url(

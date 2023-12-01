@@ -7,6 +7,7 @@ tags:
 
 # :heart_eyes: Les Paul Classic 3 Pickups
 
+
 * **Page**: [Les Paul Classic 3 Pickups](https://reverb.com)
 * **Collection**: Wanna
 * **Edition**: Standard

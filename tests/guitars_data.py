@@ -9,6 +9,7 @@ guitars = {
             "name": "Les Paul Classic",
             "image": "https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg",
             "slug": "les-paul-classic",
+            "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers.",
             "status": "Want",
             "year": {"year": "1990 - 2011", "start": 1990, "end": 2011},
             "finishes": [

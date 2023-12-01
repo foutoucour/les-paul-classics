@@ -3,8 +3,9 @@ repos:
     rev: v3.4.0
     hooks:
       - id: check-yaml
-        exclude: "^tests/recordings|mkdocs.yml"
+        exclude: "^tests/recordings|mkdocs.yml|tests/expected|src/templates"
       - id: end-of-file-fixer
+        exclude: "^tests/recordings|mkdocs.yml|tests/expected|src/templates"
       - id: trailing-whitespace
   - repo: https://github.com/psf/black
     rev: 22.3.0 # should match the version specified in pyproject.toml, bump the version to avoid click 8.1.0 for the error: cannot import name '_unicodefun' from 'click'

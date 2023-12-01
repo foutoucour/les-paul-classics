@@ -1,3 +1,4 @@
+The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers.
 * **Page**: [Les Paul Classic](https://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar)
 * **Collection**: Wanna
 * **Edition**: Standard
