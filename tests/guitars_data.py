@@ -24,6 +24,7 @@ guitars = {
             "price_guide": {
                 "low_bracket": 1940,
                 "high_bracket": 2849,
+                "average": 2394,
             },
         },
         "previous_price": 4000,
@@ -58,11 +59,12 @@ guitars = {
             "price_guide": {
                 "low_bracket": 1940,
                 "high_bracket": 4000,
+                "average": 2394,
             },
         },
         "previous_price": None,
         "discount": None,
-        "price": 3499,
+        "price": 2299,
         "shipping_price": 194,
         "accept_offers": True,
         "watched": True,
@@ -92,6 +94,7 @@ guitars = {
             "price_guide": {
                 "low_bracket": 1940,
                 "high_bracket": 2849,
+                "average": 2394,
             },
         },
         "previous_price": None,

@@ -8,7 +8,7 @@ tags:
 {% if previous_price %}
   - Price Drop
 {% endif %}
-{% if model and model["price_guide"] and model["price_guide"]["high_bracket"] > price %}
+{% if model and model["price_guide"] and model["price_guide"]["average"] > price %}
   - Good Deal
 {% endif %}
 ---

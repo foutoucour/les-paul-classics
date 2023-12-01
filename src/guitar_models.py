@@ -20,6 +20,7 @@ static_data = yaml.safe_load(static_data_file.read_text())
 class PriceGuide(BaseModel):
     low_bracket: Optional[int]
     high_bracket: Optional[int]
+    average: Optional[int]
 
     @classmethod
     async def get(cls, session: Session) -> Optional[PriceGuide]:
@@ -43,9 +44,14 @@ class PriceGuide(BaseModel):
             except NoSuchElement:
                 high_bracket = None
 
+            average = None
+            if low_bracket and high_bracket:
+                average = int((low_bracket + high_bracket) / 2)
+
             return cls(
                 low_bracket=low_bracket,
                 high_bracket=high_bracket,
+                average=average,
             )
 
         except ArsenicTimeout:
