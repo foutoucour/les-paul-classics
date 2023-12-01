@@ -2,42 +2,187 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/tags/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/1994-gibson-les-paul-classic-plus-heritage-cherry-sunburst-video/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/2007-gibson-usa-les-paul-classic-antique-gotw-14-iced-tea-h90-guitar-of-the-week-plus-standard/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-2000-les-paul-classic-honey-burst/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-2012-les-paul-custom-classic-ebony-chrome-with-hsc/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-custom-shop-les-paul-classic-all-mahogany-1995-sn-5-9241-10-20/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-guitar-of-the-week-2-les-paul-classic-antique-2007-fireburst/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-les-paul-classic-custom-2007-gotw-46/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-les-paul-classic-custom-2012-wine-red/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-les-paul-classic-custom-limited-2014-wine-red/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-les-paul-classic-heritage-cherry-sunburst-9-92-lbs/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/gibson-les-paul-classic-vintage-1993-japan-yamano-ink-stamped-heritage-cherry-beautifully-aged-w-yamano-booklet-ohsc/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/hot-deal-gibson-les-paul-special-edition-black-model-w-hardshell-case/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Available/les-paul-classic-premium-plus-1994-cherry-sunburst-gibson/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Ended/gibson-1994-les-paul-classic-plemium-plus/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Ended/gibson-les-paul-classic-2018-gold-top-p90-s/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Sold/2003-gibson-les-paul-classic-triple-humbucker-electric-guitar-w-ohsc/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Guitars/Sold/gibson-2000-les-paul-classic-honey-burst/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/guitar-of-the-week-14-les-paul-classic-antique/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/guitar-of-the-week-2-les-paul-classic-antique/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/les-paul-classic-custom/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/les-paul-classic-plus/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/les-paul-classic-premium-plus/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/les-paul-classic/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/les-paul-special/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/Models/limited-edition-les-paul-classic-custom/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/2007/unveiling-the-rarity-the-gibson-les-paul-classic-antique-with-h-90-pickups/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/2023/heart-accept-gibson-les-paul-classic---heritage-cherry-sunburst---992-lbs/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/2007/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/2023/heart-accept-gibson-les-paul-classic-vintage-1993-japan-yamano-ink-stamped-heritage-cherry-beautifully-aged-w-yamano-booklet--ohsc/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/gotw/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/1990/gibson-les-paul-classic-1960/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/general/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/2023/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/limited-edition/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/1990/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/wanna/</loc>
-         <lastmod>2023-11-27</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/standard-edition/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/original-1960/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/private-collection---wanna/</loc>
+         <lastmod>2023-12-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/tags/</loc>
+         <lastmod>2023-12-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
