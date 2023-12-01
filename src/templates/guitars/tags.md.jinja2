@@ -1,0 +1,14 @@
+---
+tags:
+  - Guitar
+  - {{ status.value }}
+{% if accept_offers %}
+  - Accept Offers
+{% endif %}
+{% if previous_price %}
+  - Price Drop
+{% endif %}
+{% if model and model["price_guide"] and model["price_guide"]["high_bracket"] > price %}
+  - Good Deal
+{% endif %}
+---

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "les-paul-classics"
-version = "0.1.0"
+version = "0.2.0"
 description = "Static website about the Gibson Les Paul classic models"
 authors = ["Jordi riera <kender.jr@gmail.com>"]
 readme = "README.md"
@@ -9,8 +9,35 @@ readme = "README.md"
 python = "^3.10"
 mkdocs = "^1.5.3"
 mkdocs-material = "^9.4.14"
+pydantic = "^2.5.2"
+loguru = "^0.7.2"
+arsenic = "^21.8"
+mkdocs-charts-plugin = "^0.0.10"
+typer = "^0.9.0"
+jinja2 = "^3.1.2"
+python-slugify = "^8.0.1"
 
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+pytest-cov = "^4.1.0"
+pytest-random-order = "^1.1.0"
+pytest-asyncio = "^0.21.1"
+vcrpy = "^5.1.0"
+pytest-vcr = "^1.0.2"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+scrapper = "src.main:app"
+
+[virtualenvs]
+create = true
+in-project = true
+
+[tool.ruff]
+# Allow lines to be as long as 120 characters.
+line-length = 120
+exclude = ["tests/guitars_data.py"]

@@ -1,0 +1,533 @@
+{
+    "elements": [
+        {
+            "url": "https://reverb.com/ca/item/74578653-gibson-les-paul-classic-custom-2007-gotw-46",
+            "name": "Gibson Les Paul Classic Custom 2007 GOTW #46",
+            "slug": "gibson-les-paul-classic-custom-2007-gotw-46",
+            "location": "Den Haag, Netherlands",
+            "image": "https://rvb-img.reverb.com/image/upload/s--2RPuMv0Q--/a_0/t_card-square/v1697374013/heaox6hact3kesexokzg.jpg",
+            "model": null,
+            "previous_price": 6774,
+            "discount": 13,
+            "price": 5905,
+            "shipping_price": 388,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/71693844-gibson-les-paul-classic-vintage-1993-japan-yamano-ink-stamped-heritage-cherry-beautifully-aged-w-yamano-booklet-ohsc",
+            "name": "Gibson Les Paul Classic Vintage 1993 Japan Yamano Ink Stamped Heritage Cherry Beautifully Aged w/ Yamano Booklet & OHSC",
+            "slug": "gibson-les-paul-classic-vintage-1993-japan-yamano-ink-stamped-heritage-cherry-beautifully-aged-w-yamano-booklet-ohsc",
+            "location": "CORNWALL, United Kingdom",
+            "image": "https://rvb-img.reverb.com/image/upload/s--N0U8Cw1c--/a_0/t_card-square/v1690374332/i1qagyzru7ztsk9cibnw.jpg",
+            "model": {
+                "name": "Les Paul Classic",
+                "image": "https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar",
+                "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers. The guitar maintains the classic Les Paul aesthetics with its carved maple top and mahogany body and neck. It often comes with a slim-taper neck profile, providing a comfortable playing experience. This model is appreciated for blending traditional Les Paul qualities with modern playability and sound versatility.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic",
+                "year": {
+                    "year": "1990 - 2011",
+                    "start": 1990,
+                    "end": 2011
+                },
+                "price_guide": {
+                    "low_bracket": 1895,
+                    "high_bracket": 2834
+                },
+                "finishes": [
+                    "Amber",
+                    "Bullion Gold",
+                    "Ebony",
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Lightburst",
+                    "Show More"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 3509,
+            "shipping_price": 194,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75815648-hot-deal-gibson-les-paul-special-edition-black-model-w-hardshell-case",
+            "name": "*HOT DEAL* Gibson Les Paul Special Edition Black Model w Hardshell Case",
+            "slug": "hot-deal-gibson-les-paul-special-edition-black-model-w-hardshell-case",
+            "location": "Riverside, CA, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--a9qO1ZY0--/a_0,c_crop,h_0.752,w_1.000,x_0.000,y_0.140/t_card-square/v1699836373/rvyu6j6lho3fogbrghme.jpg",
+            "model": {
+                "name": "Les Paul Special",
+                "image": "https://rvb-img.reverb.com/image/upload/s--YZsMlRUN--/t_card-square/v1556567459/czyjbzhjccay4pfb1f4q.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-special-2019-present",
+                "description": "The Gibson Les Paul Special is a distinct variant of the Les Paul line, originally introduced in the 1950s. Characterized by its flat-top, single-cutaway mahogany body, it offers a simpler aesthetic compared to the standard Les Paul. This model typically features P90 pickups, delivering a raw, punchy tone that's different from the humbucker-equipped Les Pauls. It's known for its straightforward design with a focus on playability and tonal clarity. The Les Paul Special has been a favorite among players seeking a no-frills, yet classic Gibson sound and feel.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-special",
+                "year": {
+                    "year": "2019 - 2023",
+                    "start": 2019,
+                    "end": 2023
+                },
+                "price_guide": {
+                    "low_bracket": 1396,
+                    "high_bracket": 1810
+                },
+                "finishes": [
+                    "Deep Purple",
+                    "Olive Drab",
+                    "TV Yellow",
+                    "Vintage Cherry"
+                ]
+            },
+            "previous_price": 1703,
+            "discount": 23,
+            "price": 1318,
+            "shipping_price": 83,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75958633-les-paul-classic-premium-plus-1994-cherry-sunburst-gibson",
+            "name": "Les Paul Classic Premium Plus 1994 Cherry Sunburst Gibson",
+            "slug": "les-paul-classic-premium-plus-1994-cherry-sunburst-gibson",
+            "location": "Leeds, United Kingdom",
+            "image": "https://rvb-img.reverb.com/image/upload/s--DylCekUJ--/a_0/t_card-square/v1700127818/ahl5ezpzxed3bkir4xro.jpg",
+            "model": {
+                "name": "Les Paul Classic Premium Plus",
+                "image": "https://rvb-img.reverb.com/image/upload/s--DACiQ9Sv--/t_card-square/v1569620166/gwdhj0is44y1yid5of1l.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-premium-plus-1993-2001",
+                "description": "The Les Paul Classic Premium Plus was produced alongside the original Les Paul Classic, but features a maple top instead of a plain maple top. Production began in 1993, and continued with some interruption, but no change in specifications, through 2001. All models feature AAA flame maple tops and 496T/500R uncovered humbuckers. 1997 models were also available with birdseye maple tops.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic-premium-plus",
+                "year": {
+                    "year": "1993 - 2001",
+                    "start": 1993,
+                    "end": 2001
+                },
+                "price_guide": {
+                    "low_bracket": 2699,
+                    "high_bracket": 4922
+                },
+                "finishes": [
+                    "Emerald Green",
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Light Burst",
+                    "Translucent Amber",
+                    "Translucent Purple",
+                    "Show More"
+                ]
+            },
+            "previous_price": 4510,
+            "discount": 12,
+            "price": 3969,
+            "shipping_price": 315,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/74543982-1994-gibson-les-paul-classic-plus-heritage-cherry-sunburst-video",
+            "name": "1994 Gibson Les Paul Classic Plus Heritage Cherry Sunburst ~Video~",
+            "slug": "1994-gibson-les-paul-classic-plus-heritage-cherry-sunburst-video",
+            "location": "Salt Lake City, UT, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--PmKSYhgc--/a_0/t_card-square/v1697272429/ywrxisc8fy9btzbi5lnu.jpg",
+            "model": {
+                "name": "Les Paul Classic Plus",
+                "image": "https://rvb-img.reverb.com/image/upload/s--z8DoMnMp--/t_card-square/v1569619994/o8niaqoqlibur1kzed7e.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-plus",
+                "description": "Modeled after the Les Paul Classic, which was in turn based off of the 1960 Les Paul, the Gibson Les Paul Classic Plus was manufactured from 1991 to 1997, but returned briefly in 2001. The Classic Plus, like the Classic, features two exposed 496R/500T humbucking pickups, but features a flamed maple top instead of a plain one.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic-plus",
+                "year": {
+                    "year": "1991 - 2001",
+                    "start": 1991,
+                    "end": 2001
+                },
+                "price_guide": {
+                    "low_bracket": 2394,
+                    "high_bracket": 4418
+                },
+                "finishes": [
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Translucent Amber",
+                    "Translucent Ebony",
+                    "Translucent Red"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 3547,
+            "shipping_price": 212,
+            "accept_offers": false,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/76057335-gibson-les-paul-classic-heritage-cherry-sunburst-9-92-lbs",
+            "name": "Gibson Les Paul Classic - Heritage Cherry Sunburst - 9.92 LBS",
+            "slug": "gibson-les-paul-classic-heritage-cherry-sunburst-9-92-lbs",
+            "location": "Lawrence, NJ, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--f9XAFFFw--/a_0/t_card-square/v1700353127/pvwutnw1byjdr72pszgk.jpg",
+            "model": {
+                "name": "Les Paul Classic",
+                "image": "https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar",
+                "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers. The guitar maintains the classic Les Paul aesthetics with its carved maple top and mahogany body and neck. It often comes with a slim-taper neck profile, providing a comfortable playing experience. This model is appreciated for blending traditional Les Paul qualities with modern playability and sound versatility.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic",
+                "year": {
+                    "year": "1990 - 2011",
+                    "start": 1990,
+                    "end": 2011
+                },
+                "price_guide": {
+                    "low_bracket": 1895,
+                    "high_bracket": 2834
+                },
+                "finishes": [
+                    "Amber",
+                    "Bullion Gold",
+                    "Ebony",
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Lightburst",
+                    "Show More"
+                ]
+            },
+            "previous_price": 4682,
+            "discount": 15,
+            "price": 3980,
+            "shipping_price": 467,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75941216-gibson-guitar-of-the-week-2-les-paul-classic-antique-2007-fireburst",
+            "name": "Gibson Guitar Of The Week #2 Les Paul Classic Antique 2007 - Fireburst",
+            "slug": "gibson-guitar-of-the-week-2-les-paul-classic-antique-2007-fireburst",
+            "location": "Valdemorillo, Spain",
+            "image": "https://rvb-img.reverb.com/image/upload/s--_ocipBGJ--/a_0,c_crop,h_0.518,w_1.000,x_0.000,y_0.200/t_card-square/v1700088231/prmrwbniscm30z9yprgx.jpg",
+            "model": {
+                "name": "Guitar Of The Week #2 Les Paul Classic Antique",
+                "image": "https://rvb-img.reverb.com/image/upload/s--ZSCNC7K---/t_card-square/v1569621419/dqvkgmdk8uljjyhs5whj.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-guitar-of-the-week-number-2-les-paul-classic-antique-fireburst-2007",
+                "description": "The Guitar of the Week #2 Les Paul Classic Antique, released in 2007, is part of Gibson's limited edition series showcasing unique variations on classic designs. It features a distinct \"Antique\" finish, giving it a vintage look coupled with modern craftsmanship. This model is equipped with '57 Classic humbuckers, known for their warm, rich tone that's versatile for various music genres. It boasts a classic Les Paul mahogany body and neck, paired with a rosewood fingerboard for traditional playability. This guitar is a collector's item, revered for its blend of classic Gibson aesthetics and high-quality sound.\n",
+                "collection": "Wanna",
+                "edition": "Limited",
+                "slug": "guitar-of-the-week-2-les-paul-classic-antique",
+                "year": {
+                    "year": "2007",
+                    "start": 2007,
+                    "end": 2007
+                },
+                "price_guide": null,
+                "finishes": [
+                    "Fireburst"
+                ]
+            },
+            "previous_price": 4632,
+            "discount": 9,
+            "price": 4244,
+            "shipping_price": 466,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/74750063-gibson-custom-shop-les-paul-classic-all-mahogany-1995-sn-5-9241-10-20",
+            "name": "Gibson Custom Shop Les Paul Classic All Mahogany 1995 [SN 5 9241] [10/20]",
+            "slug": "gibson-custom-shop-les-paul-classic-all-mahogany-1995-sn-5-9241-10-20",
+            "location": "Tokyo, Japan",
+            "image": "https://rvb-img.reverb.com/image/upload/s--0Xkc3CQm--/t_card-square/v1697771183/utiqy0rqhfq4qlmgc3fm.jpg",
+            "model": {
+                "name": "Les Paul Classic",
+                "image": "https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar",
+                "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers. The guitar maintains the classic Les Paul aesthetics with its carved maple top and mahogany body and neck. It often comes with a slim-taper neck profile, providing a comfortable playing experience. This model is appreciated for blending traditional Les Paul qualities with modern playability and sound versatility.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic",
+                "year": {
+                    "year": "1990 - 2011",
+                    "start": 1990,
+                    "end": 2011
+                },
+                "price_guide": {
+                    "low_bracket": 1895,
+                    "high_bracket": 2834
+                },
+                "finishes": [
+                    "Amber",
+                    "Bullion Gold",
+                    "Ebony",
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Lightburst",
+                    "Show More"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 4147,
+            "shipping_price": 96,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/73988189-2007-gibson-usa-les-paul-classic-antique-gotw-14-iced-tea-h90-guitar-of-the-week-plus-standard",
+            "name": "2007 Gibson USA Les Paul Classic Antique GOTW #14 Iced Tea - H90, Guitar of the Week! plus standard",
+            "slug": "2007-gibson-usa-les-paul-classic-antique-gotw-14-iced-tea-h90-guitar-of-the-week-plus-standard",
+            "location": "Lees Summit, MO, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--Q1b_z6WJ--/t_card-square/v1695941241/rye9dpekgjpvl6dmjszr.jpg",
+            "model": {
+                "name": "Guitar Of The Week #14 Les Paul Classic Antique",
+                "image": "https://rvb-img.reverb.com/image/upload/s--dngp-W14--/t_card-square/v1624891539/i7p9cbgmvtppc4t0bulz.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-guitar-of-the-week-number-14-les-paul-classic-antique-iced-tea-burst-2007",
+                "description": "The Gibson Les Paul Classic Antique, Guitar of the Week #14, is a special edition released in 2007, featuring vintage aesthetics with modern functionalities. It sports a unique 'Antique' finish, enhancing its classic appeal. This guitar is equipped with BurstBucker pickups, offering rich, vintage tones typical of the Les Paul sound. It also features a bound rosewood fingerboard and a slim-tapered neck for comfortable playability. As a limited edition, this model is highly sought after by collectors and players alike for its unique blend of old-school charm and contemporary performance.\n",
+                "collection": "Wanna",
+                "edition": "Limited",
+                "slug": "guitar-of-the-week-14-les-paul-classic-antique",
+                "year": {
+                    "year": "2007",
+                    "start": 2007,
+                    "end": 2007
+                },
+                "price_guide": {
+                    "low_bracket": 2158,
+                    "high_bracket": 3882
+                },
+                "finishes": [
+                    "Iced Tea Burst"
+                ]
+            },
+            "previous_price": 5394,
+            "discount": 8,
+            "price": 4968,
+            "shipping_price": 239,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/74553503-gibson-les-paul-classic-custom-limited-2014-wine-red",
+            "name": "Gibson Les Paul Classic Custom Limited 2014 - Wine Red",
+            "slug": "gibson-les-paul-classic-custom-limited-2014-wine-red",
+            "location": "Eau Claire, WI, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--_GlXax3T--/a_0/t_card-square/v1697306442/fhaw0rwsialxf2wt3v7j.jpg",
+            "model": {
+                "name": "Limited Edition Les Paul Classic Custom",
+                "image": "https://rvb-img.reverb.com/image/upload/s--XgN_XHBq--/t_card-square/v1568405526/jyp1f6qsebpdmqsm5ct4.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-limited-edition-les-paul-classic-custom-2014",
+                "description": "The Gibson Limited Edition Les Paul Classic Custom 2014 is a unique blend of the Les Paul Classic and Custom models. It features a mahogany body with a carved maple top, offering the classic Les Paul sustain and tone. The guitar is equipped with '57 Classic and Super '57 humbucking pickups, providing a versatile and rich sound palette. Its elegant aesthetics are highlighted by a bound ebony fingerboard and custom inlays, adding a luxurious touch. This limited edition model is prized for its exceptional craftsmanship, playability, and a perfect balance between classic and modern Gibson elements.\n",
+                "collection": "Wanna",
+                "edition": "Limited",
+                "slug": "limited-edition-les-paul-classic-custom",
+                "year": {
+                    "year": "2014",
+                    "start": 2014,
+                    "end": 2014
+                },
+                "price_guide": {
+                    "low_bracket": 2395,
+                    "high_bracket": 3989
+                },
+                "finishes": [
+                    "Natural",
+                    "Wine Red"
+                ]
+            },
+            "previous_price": 4115,
+            "discount": 10,
+            "price": 3703,
+            "shipping_price": 212,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/63513947-gibson-les-paul-classic-custom-2012-wine-red",
+            "name": "Gibson Les Paul Classic Custom 2012 - wine red",
+            "slug": "gibson-les-paul-classic-custom-2012-wine-red",
+            "location": "Northumberland, United Kingdom",
+            "image": "https://rvb-img.reverb.com/image/upload/s--JKZXzBIf--/a_0/t_card-square/v1669308234/tkx9lqhvpaf7m2nxwy6f.webp",
+            "model": {
+                "name": "Les Paul Classic Custom",
+                "image": "https://rvb-img.reverb.com/image/upload/s--X6ogTR6n--/t_card-square/v1568321250/y0tkodpd3mj6uqz67cui.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-custom",
+                "description": "Part of Gibson's attempt to redesign old classics, the Gibson Les Paul Classic Custom is a recent twist on the old Les Paul Custom design. Taking elements from the original Custom, the Classic Custom features block inlays, multi-layer binding, and the iconic Les Paul Custom headstock. However, the new Les Paul Classic Custom uses a processed maple for the fingerboard, partly due to wood sourcing issues faced by the company.\n",
+                "collection": "Wanna",
+                "edition": "Limited",
+                "slug": "les-paul-classic-custom",
+                "year": {
+                    "year": "2012",
+                    "start": 2012,
+                    "end": 2012
+                },
+                "price_guide": {
+                    "low_bracket": 2524,
+                    "high_bracket": 4579
+                },
+                "finishes": [
+                    "Antique Natural",
+                    "Cream",
+                    "Ebony",
+                    "Goldtop",
+                    "Wine Red"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 3608,
+            "shipping_price": 405,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75725820-gibson-2012-les-paul-custom-classic-ebony-chrome-with-hsc",
+            "name": "Gibson 2012 Les Paul Custom Classic Ebony/Chrome with HSC",
+            "slug": "gibson-2012-les-paul-custom-classic-ebony-chrome-with-hsc",
+            "location": "Parkville, MO, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--NuM1Wxa1--/t_card-square/v1699663702/h9xqokz3oe0wwq4bfcsj.jpg",
+            "model": {
+                "name": "Les Paul Classic Custom",
+                "image": "https://rvb-img.reverb.com/image/upload/s--X6ogTR6n--/t_card-square/v1568321250/y0tkodpd3mj6uqz67cui.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-custom",
+                "description": "Part of Gibson's attempt to redesign old classics, the Gibson Les Paul Classic Custom is a recent twist on the old Les Paul Custom design. Taking elements from the original Custom, the Classic Custom features block inlays, multi-layer binding, and the iconic Les Paul Custom headstock. However, the new Les Paul Classic Custom uses a processed maple for the fingerboard, partly due to wood sourcing issues faced by the company.\n",
+                "collection": "Wanna",
+                "edition": "Limited",
+                "slug": "les-paul-classic-custom",
+                "year": {
+                    "year": "2012",
+                    "start": 2012,
+                    "end": 2012
+                },
+                "price_guide": {
+                    "low_bracket": 2524,
+                    "high_bracket": 4579
+                },
+                "finishes": [
+                    "Antique Natural",
+                    "Cream",
+                    "Ebony",
+                    "Goldtop",
+                    "Wine Red"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 4542,
+            "shipping_price": 113,
+            "accept_offers": true,
+            "status": "Available"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75319794-gibson-2000-les-paul-classic-honey-burst?show_sold=true",
+            "name": "Gibson 2000 Les Paul Classic - Honey Burst",
+            "slug": "gibson-2000-les-paul-classic-honey-burst",
+            "location": "Pennsauken, NJ, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--gPoiWiyA--/a_0/t_card-square/v1698841053/diwnsnoetyjw3nqqfexs.jpg",
+            "model": {
+                "name": "Les Paul Classic",
+                "image": "https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar",
+                "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers. The guitar maintains the classic Les Paul aesthetics with its carved maple top and mahogany body and neck. It often comes with a slim-taper neck profile, providing a comfortable playing experience. This model is appreciated for blending traditional Les Paul qualities with modern playability and sound versatility.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic",
+                "year": {
+                    "year": "1990 - 2011",
+                    "start": 1990,
+                    "end": 2011
+                },
+                "price_guide": {
+                    "low_bracket": 1895,
+                    "high_bracket": 2834
+                },
+                "finishes": [
+                    "Amber",
+                    "Bullion Gold",
+                    "Ebony",
+                    "Heritage Cherry Sunburst",
+                    "Honey Burst",
+                    "Lightburst",
+                    "Show More"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 3264,
+            "shipping_price": 212,
+            "accept_offers": false,
+            "status": "Sold"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75833549-gibson-1994-les-paul-classic-plemium-plus?show_sold=true",
+            "name": "Gibson 1994 Les Paul Classic Plemium Plus",
+            "slug": "gibson-1994-les-paul-classic-plemium-plus",
+            "location": "TOKYO, Japan",
+            "image": "https://rvb-img.reverb.com/image/upload/s--beD9mE-l--/a_0/t_card-square/v1699876948/obza5mabx25lclcyvjsm.jpg",
+            "model": null,
+            "previous_price": null,
+            "discount": null,
+            "price": 3217,
+            "shipping_price": 251,
+            "accept_offers": false,
+            "status": "Ended"
+        },
+        {
+            "url": "https://reverb.com/ca/item/76043789-gibson-les-paul-classic-2018-gold-top-p90-s?show_sold=true",
+            "name": "Gibson Les Paul Classic 2018 - Gold Top P90's",
+            "slug": "gibson-les-paul-classic-2018-gold-top-p90-s",
+            "location": "Berkshire, United Kingdom",
+            "image": "https://rvb-img.reverb.com/image/upload/s--yc_ask0Q--/a_0/t_card-square/v1700321682/xixml4zr3zn0smifycal.jpg",
+            "model": {
+                "name": "Les Paul Classic",
+                "image": "https://rvb-img.reverb.com/image/upload/s--4h2HXuDb--/t_card-square/v1538598833/t2vcn9qr9b48hpiiffwk.png",
+                "url": "https://reverb.comhttps://reverb.com/ca/p/gibson-les-paul-classic-2018",
+                "description": "The Gibson Les Paul Classic 2018 with P90 pickups is a modern rendition of the iconic Les Paul design. It features P90 pickups, known for their bright, crisp sound, offering a distinct tonal variation from the traditional humbuckers. The guitar maintains the classic Les Paul aesthetics with its carved maple top and mahogany body and neck. It often comes with a slim-taper neck profile, providing a comfortable playing experience. This model is appreciated for blending traditional Les Paul qualities with modern playability and sound versatility.\n",
+                "collection": "Wanna",
+                "edition": "Standard",
+                "slug": "les-paul-classic",
+                "year": {
+                    "year": "2018",
+                    "start": 2018,
+                    "end": 2018
+                },
+                "price_guide": {
+                    "low_bracket": 2000,
+                    "high_bracket": 2937
+                },
+                "finishes": [
+                    "Ebony",
+                    "Gold Top",
+                    "Pelham Blue"
+                ]
+            },
+            "previous_price": null,
+            "discount": null,
+            "price": 3426,
+            "shipping_price": 360,
+            "accept_offers": false,
+            "status": "Ended"
+        },
+        {
+            "url": "https://reverb.com/ca/item/75854927-2003-gibson-les-paul-classic-triple-humbucker-electric-guitar-w-ohsc?show_sold=true",
+            "name": "2003 Gibson Les Paul Classic Triple Humbucker Electric Guitar w/ OHSC",
+            "slug": "2003-gibson-les-paul-classic-triple-humbucker-electric-guitar-w-ohsc",
+            "location": "Sioux City, IA, United States",
+            "image": "https://rvb-img.reverb.com/image/upload/s--oiBYIVVz--/a_0/t_card-square/v1699914986/ckqetlkarkn9c0lddt6d.jpg",
+            "model": null,
+            "previous_price": null,
+            "discount": null,
+            "price": 3335,
+            "shipping_price": 212,
+            "accept_offers": false,
+            "status": "Sold"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+# :heart_eyes: Les Paul Classic

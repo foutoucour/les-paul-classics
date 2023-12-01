@@ -1,0 +1,9 @@
+{% if description %}{{ description }}{% endif %}
+
+* **Page**: [{{ name }}]({{ url }})
+* **Collection**: {{ collection.value }}
+* **Edition**: {{ edition.value }}
+* **Years**: {{ year["year"]}}
+* **Finishes**: {{ finishes }}
+
+![image]({{image}}){ align=right width="200" }
