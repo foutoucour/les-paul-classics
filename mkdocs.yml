@@ -1,65 +1,36 @@
 markdown_extensions:
-- admonition
-- pymdownx.highlight
-- pymdownx.extra
-- pymdownx.details
-- pymdownx.critic
-- pymdownx.caret
-- pymdownx.mark
-- pymdownx.tilde
-- toc:
-    permalink: "\U0001F517"
-- pymdownx.tabbed:
-    alternate_style: true
-- pymdownx.emoji:
-    emoji_generator: !!python/name:material.extensions.emoji.to_svg ''
-    emoji_index: !!python/name:material.extensions.emoji.twemoji ''
-- pymdownx.superfences:
-    custom_fences:
-    - class: mermaid
-      format: !!python/name:pymdownx.superfences.fence_code_format ''
-      name: mermaid
-- pymdownx.tasklist:
-    custom_checkbox: true
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.extra
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: "\U0001F517"
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg ''
+      emoji_index: !!python/name:material.extensions.emoji.twemoji ''
+  - pymdownx.superfences:
+      custom_fences:
+        - class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format ''
+          name: mermaid
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
-- index.md
-- tags.md
-- Available:
-  - Guitars/Available/1994-gibson-les-paul-classic-plus-heritage-cherry-sunburst-video.md
-  - Guitars/Available/2007-gibson-usa-les-paul-classic-antique-gotw-14-iced-tea-h90-guitar-of-the-week-plus-standard.md
-  - Guitars/Available/gibson-2000-les-paul-classic-honey-burst.md
-  - Guitars/Available/gibson-2012-les-paul-custom-classic-ebony-chrome-with-hsc.md
-  - Guitars/Available/gibson-custom-shop-les-paul-classic-all-mahogany-1995-sn-5-9241-10-20.md
-  - Guitars/Available/gibson-guitar-of-the-week-2-les-paul-classic-antique-2007-fireburst.md
-  - Guitars/Available/gibson-les-paul-classic-custom-2007-gotw-46.md
-  - Guitars/Available/gibson-les-paul-classic-custom-2012-wine-red.md
-  - Guitars/Available/gibson-les-paul-classic-custom-limited-2014-wine-red.md
-  - Guitars/Available/gibson-les-paul-classic-heritage-cherry-sunburst-9-92-lbs.md
-  - Guitars/Available/gibson-les-paul-classic-vintage-1993-japan-yamano-ink-stamped-heritage-cherry-beautifully-aged-w-yamano-booklet-ohsc.md
-  - Guitars/Available/hot-deal-gibson-les-paul-special-edition-black-model-w-hardshell-case.md
-  - Guitars/Available/les-paul-classic-premium-plus-1994-cherry-sunburst-gibson.md
-- Ended:
-  - Guitars/Ended/gibson-1994-les-paul-classic-plemium-plus.md
-  - Guitars/Ended/gibson-les-paul-classic-2018-gold-top-p90-s.md
-- Sold:
-  - Guitars/Sold/2003-gibson-les-paul-classic-triple-humbucker-electric-guitar-w-ohsc.md
-  - Guitars/Sold/gibson-2000-les-paul-classic-honey-burst.md
-- Models:
-  - Models/guitar-of-the-week-14-les-paul-classic-antique.md
-  - Models/guitar-of-the-week-2-les-paul-classic-antique.md
-  - Models/les-paul-classic-custom.md
-  - Models/les-paul-classic-plus.md
-  - Models/les-paul-classic-premium-plus.md
-  - Models/les-paul-classic.md
-  - Models/les-paul-special.md
-  - Models/limited-edition-les-paul-classic-custom.md
+  - index.md
+  - Blog:
+      - blog/index.md
 plugins:
-- search
-- tags:
-    tags_file: tags.md
-- blog:
-    blog_toc: true
-    post_url_date_format: yyyy
+  - search
+  - table-reader
+  - blog:
+      blog_toc: true
+      post_url_date_format: yyyy
 repo_name: foutoucour/les-paul-classic
 repo_url: https://github.com/foutoucour/les-paul-classic
 site_description: Gibson Les Paul Classic models
@@ -67,29 +38,32 @@ site_name: Les Paul Classic
 site_url: https://foutoucour.github.io/les-paul-classics/
 theme:
   features:
-  - content.code.annotate
-  - navigation.indexes
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.top
-  - navigation.tracking
-  - search.highlight
-  - search.share
-  - search.suggest
-  - content.tabs.link
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.tabs.link
   icon:
     repo: fontawesome/brands/github
   name: material
   palette:
-  - accent: deep-orange
-    primary: black
-    scheme: default
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
-  - accent: deep-orange
-    primary: black
-    scheme: slate
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
+    - accent: deep-orange
+      primary: black
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - accent: deep-orange
+      primary: black
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
