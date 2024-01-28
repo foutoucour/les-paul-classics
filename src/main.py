@@ -29,6 +29,7 @@ async def run():
     async with log_in(reverb_login, reverb_password) as session:
         for page in pages:
             await session.get(page)
+            logger.info(f"scanning {page}")
             # Wait for the list to appear
             await session.wait_for_element(20, ".rc-listing-card__title")
             items = await session.get_elements(".rc-listing-grid__content a")

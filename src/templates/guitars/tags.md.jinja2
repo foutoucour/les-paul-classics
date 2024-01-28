@@ -1,6 +1,9 @@
 ---
 tags:
   - Guitar
+{% if model %}
+  - {{ model.slug }}
+{% endif %}
   - {{ status.value }}
 {% if accept_offers %}
   - Accept Offers
