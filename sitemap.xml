@@ -2,32 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/the-gibson-les-paul-classic-premium-plus-1960/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/the-gibson-les-paul-classic-antique-with-h-90-pickups-gotw-14/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/all-the-guitars-of-the-week-gotw/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/2023/exploring-the-evolution-gibson-les-paul-classic-1990-vs-2019/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/2024/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/guitar-of-the-week---gotw/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/2023/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/classic-1960/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/standard-edition/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/classic-antique/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/category/limited-edition/</loc>
-         <lastmod>2024-01-28</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/guitar-of-the-week---gotw/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/blog/category/article/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
