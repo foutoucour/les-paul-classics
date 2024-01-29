@@ -14,33 +14,15 @@ The runs started on January 22nd with an SG Supreme Bass and finished on Decembe
 
 <!-- more -->
 
-
 These limited editions brought a lot of different models on the market,
 with different sets of features that were not common at this time.
 In some cases, like the Week 33, the old Gibson logo on the headstock can confuse and make you think the Guitar is
 fake.[^3]
 
-
-[//]: # ({{multiple image|align=right|direction=horizontal|total_width=260)
-
-[//]: # ( | caption1 = Gibson Guitar Of The Week #14 Les Paul Classic Antique Iced Tea Burst)
-
-[//]: # ( | image1   = Gibson Guitar Of The Week 14 Les Paul Classic Antique 2007 Iced Tea Burst.jpg)
-
-[//]: # (| header=The week #14 with the unique H-90 pickups.)
-
-[//]: # (}})
-
-[//]: # ({| class="wikitable sortable")
-
-[//]: # (|+ Inventory of the Guitars Of The Week)
-
-[//]: # (|-)
-
 ## Inventory of the Guitars Of The Week
 
 !!! info
-    The listing contained 47 unique series[^1] composed by
+The listing contained 47 unique series[^1] composed by
 
     * 22 Les Paul
     * 13 SG
@@ -52,8 +34,8 @@ fake.[^3]
 {{ read_yaml('./inventory-guitars-of-the-week.yaml')  }}
 
 !!! note "Week 45 was skipped"
-    It is often mentioned that #45 was pulled and turned into the Joan Jett signature model Melody Maker, but Gibson has not
-    confirmed this.[^2]
+It is often mentioned that #45 was pulled and turned into the Joan Jett signature model Melody Maker, but Gibson has not
+confirmed this.[^2]
 
 ## Details on Les Paul Classic models
 
@@ -83,31 +65,12 @@ with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P
 The Week 27's Les Paul Classic Antique continues Gibson's Classic line with vintage touches.
 The mahogany top is finished in Faded Cherry. The pickups are '57 Classic PAF humbuckers.
 
-[//]: # ({{multiple image|align=right|direction=horizontal|total_width=420)
-
-[//]: # (| caption1 = Gibson Les Paul Classic Antique Ebony Black)
-
-[//]: # (| image1 = Gibson Guitar Of The Week 28.jpg)
-
-[//]: # (|caption2 = Gibson Les Paul Classic Antique Week #28)
-
-[//]: # (| image2= Guitar of the week 28.jpg)
-
-[//]: # (|caption3 = Gibson Les Paul Classic 2018)
-
-[//]: # (| image3 = Gibson Les Paul Classic 2018 P90 Ebony Black.jpg)
-
-[//]: # (|header = Two different Les Paul Classic Ebony black looking alike a Week #28)
-
-[//]: # (|footer=The differences are in the P90 pickups and the brass truss rod cover.)
-
-[//]: # (}})
-
 ### Week 28 - Les Paul Classic Custom 2 P-90 Pickups
 
 Week 28 is a Les Paul Classic Custom drawing on the legendary Black Beauty Les Pauls.
 It comes with P-90 pickups, antique ebony, a single-bound body, gold hardware, and a slim 60s-style taper neck.
-Unlike a Black Beauty, a Gibson Les Paul Custom, the Week 28 doesn't have the binding on the back of the body or the diamond in the headstock.[^5]
+Unlike a Black Beauty, a Gibson Les Paul Custom, the Week 28 doesn't have the binding on the back of the body or the
+diamond in the headstock.[^5]
 
 ### Week 33 - Les Paul Classic Antique - Mahogany Top
 
@@ -116,21 +79,8 @@ This Les Paul Classic is unique because of its Antique Vintage Sunburst finish a
 ### Week 39 - Les Paul Classic Custom Antique White
 
 The Week 39 is a Les Paul Classic Custom.
-Its originality comes from a pristine Antique White finish, Custom—gold hardware, an ebony fingerboard, white binding and inlays, and two covered '57 Classics.
-
-[//]: # ({{multiple image|align=right|direction=horizontal|total_width=260)
-
-[//]: # (| caption1 = Gibson Guitar of the Week 42 headstock)
-
-[//]: # (| image1 = Gibson Guitar of the week 42 headstock.jpg)
-
-[//]: # (|caption2 = 1997 Gibson Les Paul Custom Ace Frehley Custom Shop 'The 300")
-
-[//]: # (| image2= 1997 Gibson Les Paul Custom Ace Frehley Custom Shop 'The 300".jpg)
-
-[//]: # (|header = The body of these two Guitars can be confused, but not the headstock, not the neck inlays)
-
-[//]: # (}})
+Its originality comes from a pristine Antique White finish, Custom—gold hardware, an ebony fingerboard, white binding
+and inlays, and two covered '57 Classics.
 
 ### Week 42 - Les Paul Classic Custom w/3 Pickups
 
@@ -145,13 +95,12 @@ Like Week 28, Week 46 is a close copy of a Gibson Les Paul Custom, but as a Les 
 it comes with three pickups but with gold hardware. It can be differentiated from the custom by the headstock with a
 crown instead of a diamond and the back of the body without binding and no block inlays.
 
-# External links
+## External links
 
 * [That Time Gibson Did 47 Limited Edition Guitars In a Year](https://www.youtube.com/watch?v=tLwrtCSQiNg)
 * [Gibson USA 2007 Guitar of the Week](http://www.musicasa.es/namm-messe.com/gibson_Guitar_of_the_week.htm)
 * [2007 Guitars of the Week (Quality?, Value?)](https://www.mylespaul.com/threads/2007-Guitars-of-the-week-quality-value.6717/)
 
-[//]: # (* [Original Gibson page]&#40;https://web.archive.org/web/20090527185156/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%2014/&#41;)
 [^1]: [See all of the Guitars of the Week](https://web.archive.org/web/20090525125505/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week)
 [^2]: [Gibson Guitar of the Week series](https://www.everythingsg.com/threads/gibson-Guitar-of-the-week-series.37026/post-540676)
 [^3]: [The "FANCY" Logo, 2007 Gibson Guitar of the Week 33 GOTW 33 Les Paul Classic Antique Review + Demo](https://www.youtube.com/watch?v=s-38AOmakes)
