@@ -1,8 +1,8 @@
 ---
 date: 2023-11-25
-draft: true
 authors: [ rieraj ]
 categories:
+    - Classic 1960
     - Article
 ---
 # Exploring the Evolution: Gibson Les Paul Classic 1990 vs. 2019

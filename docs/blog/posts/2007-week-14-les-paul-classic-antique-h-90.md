@@ -1,12 +1,10 @@
 ---
-date: 2007-04-05
+date: 2024-01-28
 authors: [ rieraj ]
 categories:
-  - Model
-  - Guitar of the Week - GOTW
+  - Classic Antique
   - Limited Edition
-  - Private Collection - Wanna
-draft: true
+  - Guitar of the Week - GOTW
 ---
 
 # The Gibson Les Paul Classic Antique with H-90 Pickups, GOTW #14

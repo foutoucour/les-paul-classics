@@ -1,12 +1,9 @@
 ---
-date: 1993-01-01
+date: 2024-01-28
 authors: [ rieraj ]
 categories:
-  - Model
+  - Classic 1960
   - Standard Edition
-  - Original 1960
-  - Private Collection - Wanna
-draft: true
 ---
 # The Gibson Les Paul Classic Premium Plus 1960
 
