@@ -11,7 +11,10 @@ from pydantic import BaseModel
 
 # Path to your CSV file
 csv_file_path = "../docs/guitares - export.csv"
-yaml_file_path = "../docs/generated - guitares - export.yml"
+yaml_file_path = "../docs/generated_guitars.yml"
+classic_antique_yaml_file_path = (
+    "../docs/blog/posts/generated_guitars_classic_antique.yml"
+)
 
 
 class Entry(BaseModel):
@@ -51,6 +54,10 @@ def main():
     # Write the YAML string to a file
     with open(yaml_file_path, "w") as file:
         yaml.dump(dicts, file, sort_keys=False)
+
+    with open(classic_antique_yaml_file_path, "w") as file:
+        antiques = [d for d in dicts if "antique" in d["model"].lower()]
+        yaml.dump(antiques, file, sort_keys=False)
 
 
 if __name__ == "__main__":
