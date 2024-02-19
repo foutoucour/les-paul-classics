@@ -1,8 +1,11 @@
 import asyncio
+import csv
+import json
 import logging
 import os
+from decimal import Decimal
 from pathlib import Path
-from typing import List
+from typing import List, Protocol
 
 import typer
 import yaml
@@ -10,11 +13,46 @@ from arsenic import Session
 from loguru import logger
 from mkdocs.utils import yaml_load
 
-from src.guitars import Guitars, Guitar
-from src.reverb import log_in
-from src.utils import set_arsenic_log_level, Statuses
+from guitars import Guitars, Guitar
+from reverb import log_in
+from utils import set_arsenic_log_level, Statuses
 
 app = typer.Typer()
+
+
+class Exporter(Protocol):
+    async def __call__(self, guitars: Guitars):
+        ...
+
+
+class JsonExporter:
+    async def __call__(self, guitars: Guitars):
+        listing_json = Path("../listing.json")
+        logger.info(f"Writing to {listing_json}")
+        listing_json.write_text(guitars.model_dump_json(indent=4))
+
+
+class GuitarOut(Guitar):
+    """Guitar model used for serialization."""
+
+    class Config:
+        json_encoders = {Decimal: lambda v: float(round(v, 2))}
+
+
+class CSVExporter:
+    async def __call__(self, guitars: Guitars):
+        fieldnames = list(Guitar.schema()["properties"].keys())
+
+        with open("../listing.csv", "w") as fp:
+            writer = csv.DictWriter(fp, fieldnames=fieldnames)
+            logger.info(f"Writing to {fp.name}")
+            writer.writeheader()
+            for guitar in guitars.elements:
+                writer.writerow(json.loads(GuitarOut(**guitar.dict()).json()))
+            # listing_csv.write_text(guitars.model_dump_csv())
+
+
+exporters: List[Exporter] = [JsonExporter(), CSVExporter()]
 
 
 async def run():
@@ -22,7 +60,7 @@ async def run():
     urls: List[str] = []
     pages = (
         "https://reverb.com/ca/my/favorites",
-        "https://reverb.com/ca/my/favorites/ended",
+        # "https://reverb.com/ca/my/favorites/ended",
     )
     reverb_login = os.environ["REVERB_LOGIN"]
     reverb_password = os.environ["REVERB_PASSWORD"]
@@ -32,16 +70,14 @@ async def run():
             logger.info(f"scanning {page}")
             # Wait for the list to appear
             await session.wait_for_element(20, ".rc-listing-card__title")
-            items = await session.get_elements(".rc-listing-grid__content a")
+            logger.info("found list")
+            items = await session.get_elements("div.rc-listing-card__header > div > a")
             urls.extend([await item.get_attribute("href") for item in items])
 
+    logger.info(f"Found {len(urls)} guitars")
     guitars = await get_guitars(urls)
-    listing_json = Path("../listing.json")
-    logger.info(f"Writing to {listing_json}")
-
-    listing_json.write_text(guitars.model_dump_json(indent=4))
-    await render_models(guitars)
-    update_mkdocs()
+    for exporter in exporters:
+        await exporter(guitars)
     logger.info("Done")
 
 
@@ -65,12 +101,6 @@ async def get_guitars(urls: List[str]) -> Guitars:
     )
     output = [o for o in output if o is not None]
     guitars = Guitars(elements=output)
-    for guitar in guitars.elements:
-        subfolder = guitar.status.value
-        path = Path(f"../docs/Guitars/{subfolder}")
-        path.mkdir(parents=True, exist_ok=True)
-        await guitar.to_md(path)
-
     return guitars
 
 

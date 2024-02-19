@@ -4,17 +4,12 @@ from enum import Enum
 from pathlib import Path
 from typing import List, Optional
 
-import yaml
-from arsenic import Service, Browser, get_session, Session
+from arsenic import Session
 from arsenic.errors import NoSuchElement, ArsenicTimeout
 from loguru import logger
 from pydantic import BaseModel
-from slugify import slugify
 
-from src.utils import price_to_int, Year, template_environment, current_folder
-
-static_data_file = current_folder / "static_data" / "guitar_models.yml"
-static_data = yaml.safe_load(static_data_file.read_text())
+from src.utils import price_to_int, Year, template_environment
 
 
 class PriceGuide(BaseModel):
@@ -88,57 +83,6 @@ class GuitarModel(BaseModel):
     year: Year
     price_guide: Optional[PriceGuide] = None
     finishes: List[str]
-
-    @classmethod
-    async def get_from_url(
-        cls, service: Service, browser: Browser, model_url: str
-    ) -> GuitarModel:
-        logger.info(model_url)
-        session: Session
-        async with get_session(service, browser) as session:
-            await session.get(model_url)
-            name_element = await session.get_element(
-                "tr.collapsing-list__item:nth-child(2) > td:nth-child(2)"
-                " > ul:nth-child(1) > li:nth-child(1) > div:nth-child(1)"
-            )
-            name = await name_element.get_text()
-            year = await session.get_element(
-                "tr.collapsing-list__item:nth-child(4) > td:nth-child(2)"
-            )
-            year = Year(year=await year.get_text())
-            finish_elements = await session.get_element(
-                "tr.collapsing-list__item:nth-child(3) > td:nth-child(2) > ul:nth-child(1)"
-            )
-            finishes = [e for e in (await finish_elements.get_text()).split("\n")]
-            image_element = await session.get_element(
-                ".csp2-header__image > img:nth-child(1)"
-            )
-            slug = slugify(name)
-            price_guide = await PriceGuide.get(session)
-            image = await image_element.get_attribute("src")
-
-            description = None
-            collection = Collections.wanna
-            edition = Editions.standard
-
-            if slug in static_data:
-                static = static_data[slug]
-                collection = Collections(static["collection"])
-                edition = Editions(static["edition"])
-                description = static["description"]
-
-            return cls(
-                name=name,
-                image=image,
-                url=model_url,
-                slug=slug,
-                year=year,
-                price_guide=price_guide,
-                finishes=finishes,
-                collection=collection,
-                edition=edition,
-                description=description,
-            )
 
     async def to_md(self, folder: Path) -> Path:
         output = await self.render_md()

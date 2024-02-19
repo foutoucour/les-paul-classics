@@ -22,7 +22,7 @@ fake.[^3]
 ## Inventory of the Guitars Of The Week
 
 !!! info
-The listing contained 47 unique series[^1] composed by
+    The listing contained 47 unique series[^1] composed by
 
     * 22 Les Paul
     * 13 SG

@@ -33,4 +33,4 @@
 
 ## Inventory of the Les Paul Classics
 
-{{ read_yaml('./inventory-classic.yaml')  }}
+{{ read_yaml('./generated - guitares - export.yml')  }}

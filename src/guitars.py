@@ -7,12 +7,9 @@ from arsenic import get_session, Session
 from arsenic.errors import NoSuchElement
 from loguru import logger
 from pydantic import BaseModel
-from slugify import slugify
 
-from src.guitar_models import GuitarModel
 from src.utils import (
     price_to_int,
-    Statuses,
     defined_models_urls,
     service,
     browser,
@@ -23,16 +20,10 @@ from src.utils import (
 class Guitar(BaseModel):
     url: str
     name: str
-    slug: str
-    location: str
-    image: str
-    model: Optional[GuitarModel] = None
-    previous_price: Optional[int]
-    discount: Optional[int]
+    model: str
     price: int
     shipping_price: int
     accept_offers: bool
-    status: Statuses
 
     @classmethod
     async def get_from_url(cls, guitar_url) -> Optional[Guitar]:
@@ -44,41 +35,28 @@ class Guitar(BaseModel):
 
             try:
                 # Name of the guitar
+                await session.wait_for_element(20, "h1")
                 name_element = await session.get_element("h1")
                 name = await name_element.get_text()
-
-                try:
-                    previous_price_element = await session.get_element(
-                        ".price-with-shipping__price__original"
-                    )
-                    previous_price_text = await previous_price_element.get_text()
-                    previous_price = price_to_int(previous_price_text)
-                except NoSuchElement:
-                    previous_price = None
-
-                try:
-                    discount_element = await session.get_element(".ribbon-view")
-                    discount_text = await discount_element.get_text()
-                    discount = int(discount_text.split("%")[0])
-                except NoSuchElement:
-                    discount = None
+                logger.debug(f"Name: {name}")
 
                 price_element = await session.get_element(
                     "span.price-display:nth-child(2)"
                 )
                 price_text = await price_element.get_text()
                 price = price_to_int(price_text)
+                logger.debug(f"Price: {price}")
 
-                shipping_price_element = await session.get_element(
-                    "span.price-display:nth-child(1)"
-                )
-                shipping_price_text = await shipping_price_element.get_text()
-                shipping_price = price_to_int(shipping_price_text)
+                try:
+                    shipping_price_element = await session.get_element(
+                        "span.price-display:nth-child(1)"
+                    )
+                    shipping_price_text = await shipping_price_element.get_text()
+                    shipping_price = price_to_int(shipping_price_text)
+                except NoSuchElement:
+                    shipping_price = 0
 
-                location_element = await session.get_element(
-                    ".item2-shop-overview__location"
-                )
-                location = await location_element.get_text()
+                logger.debug(f"Shipping price: {shipping_price}")
 
                 try:
                     accept_offers_element = await session.get_element(".offer-action")
@@ -86,24 +64,14 @@ class Guitar(BaseModel):
                 except NoSuchElement:
                     accept_offers = False
 
-                try:
-                    text_element = await session.get_element(
-                        ".color-primary > div:nth-child(1)"
-                    )
-                    text = await text_element.get_text()
-                    if "ENDED" in text:
-                        status = Statuses.ENDED
-                    elif "SOLD" in text:
-                        status = Statuses.SOLD
-                except NoSuchElement:
-                    status = Statuses.AVAILABLE
+                logger.debug(f"Accept offers: {accept_offers}")
 
-                model = None
                 try:
                     model_element = await session.get_element(
                         ".item2-product-module__title"
                     )
                     model_url = await model_element.get_attribute("href")
+                    model_url = "".join(["https://reverb.com", model_url])
                 except NoSuchElement:
                     model_element = await session.get_element(
                         "tr.collapsing-list__item:nth-child(4) > td:nth-child(2) >"
@@ -112,30 +80,15 @@ class Guitar(BaseModel):
                     model_name = await model_element.get_text()
                     model_url = defined_models_urls.get(model_name, "")
 
-                if model_url:
-                    model = await GuitarModel.get_from_url(
-                        service, browser, f"https://reverb.com{model_url}"
-                    )
+                logger.debug(f"Model: {model_url}")
 
-                image_element = await session.get_element(
-                    "div.lightbox-image__thumb:nth-child(1) > div:nth-child(1) > img:nth-child(1)"
-                )
-                image = await image_element.get_attribute("src")
-
-                # Constructing the item
                 guitar = cls(
                     url=guitar_url,
                     name=name,
-                    image=image,
-                    slug=slugify(name),
-                    model=model,
-                    location=location,
-                    previous_price=previous_price,
-                    discount=discount,
+                    model=model_url,
                     price=price,
                     shipping_price=shipping_price,
                     accept_offers=accept_offers,
-                    status=status,
                 )
                 return guitar
 
