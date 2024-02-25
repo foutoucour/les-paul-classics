@@ -28,6 +28,7 @@ nav:
 plugins:
   - search
   - table-reader
+  - glightbox
   - blog:
       blog_toc: true
       post_url_date_format: yyyy

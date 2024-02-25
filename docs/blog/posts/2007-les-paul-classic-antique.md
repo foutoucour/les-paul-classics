@@ -8,13 +8,13 @@ categories:
 # The Gibson Les Paul Classic Antique Family
 ![Les Paul Classic Antique Headstock](img/2007-les-paul-classic-antique-headstock.webp){ align=right width="240" }
 
-In 2007, **Gibson** did a short run of Les Paul Classic Antique models.
+In 2007, **Gibson**, along the [Les Paul Classic Custom](./2007-les-paul-classic-custom.md) did a short run of Les Paul Classic Antique models.
 The Les Paul Classic Antique has a crown on the headstock
 and an aged binding on the body and neck.
 <!-- more -->
 
 The standard edition of Les Paul Classic Antique was produced between 2007 and 2008.
-However, in 2007, the Les Paul Classic Antique was also part of
+Additionally, in 2007, the Les Paul Classic Antique was also part of
 the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
 
 All the antique comes initially with a Hardshell With Black Reptile Pattern with withe interior.

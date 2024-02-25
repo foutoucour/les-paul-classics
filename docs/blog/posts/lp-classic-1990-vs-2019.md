@@ -4,6 +4,7 @@ authors: [ rieraj ]
 categories:
     - Classic 1960
     - Article
+draft: true
 ---
 # Exploring the Evolution: Gibson Les Paul Classic 1990 vs. 2019
 

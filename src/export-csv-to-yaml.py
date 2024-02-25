@@ -9,23 +9,44 @@ import csv
 import yaml
 from pydantic import BaseModel
 
-# Path to your CSV file
+# Path to the source CSV file
 csv_file_path = "../docs/guitares - export.csv"
+
+# List of all guitars
 yaml_file_path = "../docs/generated_guitars.yml"
+
+# list of classic antique in the file.
 classic_antique_yaml_file_path = (
     "../docs/blog/posts/generated_guitars_classic_antique.yml"
+)
+classic_custom_yaml_file_path = (
+    "../docs/blog/posts/generated_guitars_classic_custom.yml"
 )
 
 
 class Entry(BaseModel):
+    # id: str
     model: str
     starting: str
     ending: str
     webpage: str
     reverb: str
+    # score: int
+    # classic: str
 
     def to_dict(self) -> dict[str, str]:
-        d = self.model_dump(exclude={"webpage", "reverb"})
+        d = self.model_dump(
+            exclude={
+                "id",
+                # "model",
+                # "starting",
+                # "ending",
+                "webpage",
+                "reverb",
+                "score",
+                "classic",
+            }
+        )
         d["link"] = self.to_link()
         ordered = collections.OrderedDict(d)
         ordered.move_to_end("model", last=False)
@@ -57,6 +78,10 @@ def main():
 
     with open(classic_antique_yaml_file_path, "w") as file:
         antiques = [d for d in dicts if "antique" in d["model"].lower()]
+        yaml.dump(antiques, file, sort_keys=False)
+
+    with open(classic_custom_yaml_file_path, "w") as file:
+        antiques = [d for d in dicts if "custom" in d["model"].lower()]
         yaml.dump(antiques, file, sort_keys=False)
 
 

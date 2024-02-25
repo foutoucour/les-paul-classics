@@ -20,9 +20,9 @@
 -   :material-diamond: __Les Paul Classic Custom__
 
     ---
-    With custom features.
+    Classic with a taste of custom shop.
 
-    [:octicons-arrow-right-24: Articles](blog/category/classic-customs/)
+    [:octicons-arrow-right-24: Articles](blog/category/classic-custom/)
 
 -   :material-calendar-week: __Les Paul Classic Guitars of the Week__
 

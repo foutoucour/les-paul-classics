@@ -4,6 +4,7 @@ authors: [ rieraj ]
 categories:
   - Classic 1960
   - Standard Edition
+draft: true
 ---
 # The Gibson Les Paul Classic Premium Plus 1960
 
