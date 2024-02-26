@@ -11,10 +11,11 @@
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
 - model: Les Paul Classic DC
-  starting: '1990'
-  ending: '1998'
+  starting: '2003'
+  ending: '2004'
   link: '<a href="https://web.archive.org/web/20030812171659/http://www.gibson.com/products/gibson/lespaul/lpcd.html"target="_blank">:material-folder-wrench:
-    Specs</a>'
+    Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-double-cutaway-2003-2004"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
 - model: Les Paul Classic Plus
   starting: '1991'
   ending: '2001'
