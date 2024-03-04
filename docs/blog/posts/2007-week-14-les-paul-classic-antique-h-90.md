@@ -5,6 +5,7 @@ categories:
   - Classic Antique
   - Limited Edition
   - Guitar of the Week - GOTW
+draft: true
 ---
 
 # The Gibson Les Paul Classic Antique with H-90 Pickups, GOTW #14

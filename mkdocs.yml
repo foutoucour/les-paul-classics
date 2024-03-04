@@ -8,7 +8,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - toc:
-      permalink: "\U0001F517"
+      toc_depth : "1-1"
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -48,6 +48,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - toc.integrate
     - content.tabs.link
   icon:
     repo: fontawesome/brands/github
@@ -68,3 +69,5 @@ theme:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+#extra_css:
+#  - stylesheets/no-table-of-content.css
