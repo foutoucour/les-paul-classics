@@ -7,30 +7,29 @@
 <div class="grid cards" markdown>
 -   :simple-c: __Les Paul Classic 1960__
 
-    ---
-    The original model, released in 1989, and its sisters, the Classic Plus, and the Classic Premium Plus.
+    The original model
 
+    ---
 [//]: # (    [:octicons-arrow-right-24: Articles]&#40;blog/category/classic-1960/&#41;)
-    :octicons-arrow-right-24: Articles (WIP)
+    WIP
 
 -   :material-crown-outline: __Les Paul Classic Antique__
 
-    ---
     Crown on the head, vintage-inspired.
 
+    ---
     [:octicons-arrow-right-24: Articles](blog/posts/2007-les-paul-classic-antique.md)
 
 -   :material-diamond: __Les Paul Classic Custom__
 
-    ---
     Classic with a taste of custom shop.
 
+    ---
     [:octicons-arrow-right-24: Articles](blog/posts/2007-les-paul-classic-custom.md)
 
 -   :material-calendar-week: __Les Paul Classic Guitars of the Week__
 
-    The Les Paul Classic was part of the Guitar of the Week series. Several models were released with very unique
-    features.
+    A unique guitar every week.
 
     ---
     [:octicons-arrow-right-24: Articles](blog/category/guitar-of-the-week---gotw/)
