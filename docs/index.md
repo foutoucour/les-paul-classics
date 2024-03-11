@@ -25,8 +25,7 @@
     ---
     Classic with a taste of custom shop.
 
-[//]: # (    [:octicons-arrow-right-24: Articles]&#40;blog/category/classic-custom/&#41;)
-    :octicons-arrow-right-24: Articles (WIP)
+    [:octicons-arrow-right-24: Articles](blog/posts/2007-les-paul-classic-custom.md)
 
 -   :material-calendar-week: __Les Paul Classic Guitars of the Week__
 
