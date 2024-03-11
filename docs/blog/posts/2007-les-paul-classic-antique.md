@@ -3,11 +3,14 @@ date: 2024-02-19
 authors: [ rieraj ]
 categories:
   - Classic Antique
+  - Guitar of the Week - GOTW
 ---
 
-# The Gibson Les Paul Classic Antique Family
+# The Classic Antique Family
 
-![Les Paul Classic Antique Headstock](img/2007-les-paul-classic-antique-headstock.webp)
+[//]: # (![Les Paul Classic Antique Headstock]&#40;img/2007-les-paul-classic-antique-headstock.webp&#41;)
+![Image title](https://dummyimage.com/1200x500/)
+
 
 In 2007, **Gibson**, along the [Les Paul Classic Custom](./2007-les-paul-classic-custom.md) did a short run of Les Paul
 Classic Antique models.
@@ -21,19 +24,53 @@ the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
 
 All the antique comes initially with a Hardshell With Black Reptile Pattern with white interior.
 
+## A royal headstock
+
+Typically, the headstock of a Gibson USA Les Paul Classic has a silk screen with "Les Paul Model" written on it.
+The Gibson Custom Shop has a split diamond inlay.
+The Classic Antique wears a crown that replaces the silk screen.
+This crown is not a unique feature. It can also be found on the SG or ES models.
+
+<figure markdown="span">
+  ![Image title](https://dummyimage.com/600x400/)
+  <figcaption>
+    On the left, a typical headstock of a Les Paul Classic.
+    <br/>
+    On the right, the crowned headstock of a Les Paul Classic Antique.
+  </figcaption>
+</figure>
+
+## Aged bindings
+
+The antique refers to an aged guitar that comes from the past.
+The binding on the body and the neck has a yellow tint to mimic what happens to the binding over time.
+The light has tinted the lacquer on vintage guitars over the years.
+The lacquer turns yellow.
+It is more evident in the biding as it is white or cream. However,  the entire guitar is affected by aging. On the Antique, the aging effect is only applied to the binding.
+
+<figure markdown="span">
+  ![Image title](https://dummyimage.com/600x400/)
+  <figcaption>
+    On the left, a natural binding on a Les Paul Classic 2020.
+    <br/>
+    On the right, aged binding on antique on a GOTW#14.
+</figcaption>
+</figure>
+
+
 ## Inventory of the Les Paul Classic Antique
 
-The Les Paul Classic Antique was produced in 2007 and 2008. It only exists in one regular edition and
-six limited editions, part of the Guitar of the Week series.
+The Les Paul Classic Antique was produced in 2007 and 2008.
+It only exists in one regular edition and six limited editions, part of the [Guitar of the Week](2007-guitar-of-the-week.md) series.
 
-??? info "Inventory of the Les Paul Classic Antique"
-    {{ read_yaml('./generated_guitars_classic_antique.yml')  }}
+??? info "Inventory of the Les Paul Classic Antique (click to expand)"
+    {{ read_yaml('./yml/generated_guitars_classic_antique.yml')  }}
 
 ## Details on the different models
 
 ### The Regular Edition
 
-![Les Paul Classic Antique Honeyburst2](img/2007-les-paul-classic-antique-honey-burst2.jpeg){ width="140" align=right}
+[//]: # (![Les Paul Classic Antique Honeyburst2]&#40;img/2007-les-paul-classic-antique-honey-burst2.jpeg&#41;{ width="140" align=right})
 
 The regular edition of the Les Paul Classic Antique is a vintage-inspired guitar.
 It comes with a AA maple top, a mahogany body, and a mahogany neck with a gloss finish.
@@ -42,13 +79,20 @@ It is loaded with two ’57 Classic humbuckers.
 
 It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-antique-honey-burst2.jpeg),
 [Heritage Cherry Sunburst](img/2007-les-paul-classic-antique-vintage-cherry-sunburst.webp)
-, and [Vintage Sunburst](2007-les-paul-classic-antique-vintage-sunburst.jpeg).
+, and [Vintage Sunburst](img/2007-les-paul-classic-antique-vintage-sunburst.jpeg).
+[//]: # (  ![Image title]&#40;https://dummyimage.com/600x400/&#41;)
+
+<figure markdown="span">
+  ![Les Paul Classic Antique Honeyburst2](img/2007-les-paul-classic-antique-honey-burst2.jpeg){ width="600"}
+  <figcaption>
+    A Les Paul Classic Antique in Honey Burst.
+</figcaption>
+</figure>
 
 
-??? example "Specifications"
+??? example "Specifications (click to expand)"
 
     === "BODY"
-        * **Body Species**: Mahogany
         * **Top Species**: AA Figured Maple
         * **Back Species**: Mahogany
         * **Binding**: Antique Top Binding
@@ -78,7 +122,7 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
         * **Bridge Pickup**: ’57 Classic Plus, Uncovered With Nickel Polepieces
         * **Controls**: 2 Volume, 2 Tone, 3-Way Switch
 
-    reference: [Gibson.com](https://web.archive.org/web/20080724043054/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Antique/)
+    _reference: [Gibson.com](https://web.archive.org/web/20080724043054/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Antique/)_
 
 
 ---
@@ -86,14 +130,19 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
 
 The Week 2 - Les Paul Classic Antique, released on January 29th, 2007, is a Les Paul Classic Antique, including a
 figured maple top and a pair of Gibson's '57 Classic humbuckers—with a special Fireburst finish.
+The finish is also called "lava burst" and was feature on the CG Supreme of 2000 - 2007.
+
+[//]: # (TODO: Add a picture of the CG Supreme.)
 
 
-??? example "Unique Specifications"
+??? example "Unique Specifications (click to expand)"
 
     === "BODY"
         * **Finishes**: Fireburst
 
-    reference: [Gibson.com](https://web.archive.org/web/20090527183227/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique/)
+    _reference: [Gibson.com](https://web.archive.org/web/20090527183227/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique/)_
+
+[//]: # (TODO: Add a picture of the week02)
 
 ---
 ### Guitar Of The Week 05 - Les Paul Classic Antique Artist Series
@@ -101,12 +150,14 @@ figured maple top and a pair of Gibson's '57 Classic humbuckers—with a special
 It is another Les Paul Classic Antique. This Guitar has a unique finish, made and signed
 by Tom Morgan. The finishing is sometimes called Tom Morgan Lava. The back is painted black.
 
-??? example "Unique Specifications"
+??? example "Unique Specifications (click to expand)"
 
     === "BODY"
         * **Finishes**: Tom Morgan Art
 
-    reference: [Gibson.com](https://web.archive.org/web/20090527185201/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%205/)
+    _reference: [Gibson.com](https://web.archive.org/web/20090527185201/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%205/)_
+
+[//]: # (TODO: add a picture of week05)
 
 ---
 ### Guitar Of The Week 14 - Les Paul Classic Antique - H90
@@ -116,7 +167,7 @@ figured maple top. Gibson's H-90 stacked double coil pickup results from a close
 with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90, but with none of the
 60-cycle hum that usually plagues traditional single coil pickups.
 
-??? example "Unique Specifications"
+??? example "Unique Specifications (click to expand)"
 
     === "BODY"
         * **Finishes**: Ice Tea Burst
@@ -129,12 +180,12 @@ with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P
         * **Bridge Pickup**: H-90
         * **Controls**: 2 volume, 2 tone, 3-way switch - with push/pull pots
 
-    reference: [Gibson.com](https://web.archive.org/web/20090527185156/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%2014/)
+    _reference: [Gibson.com](https://web.archive.org/web/20090527185156/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%2014/)_
+
+[//]: # (TODO: Add a picture of the week14)
 
 ---
-![Les Paul Classic Antique week 19](img/2007-les-paul-classic-antique-week-15-body.webp){ width="120" align=right}
 ### Guitar Of The Week 19 - Les Paul Classic Antique - Zebra
-
 
 The week 19 offers a unique [Zebrawood](https://www.wood-database.com/zebrawood/) top without binding.
 This unique wood is known for its striking appearance and gives a rough and wild look to the guitar.
@@ -144,7 +195,16 @@ The finish is a natural satin.
 
 The guitar is packed with two Burstbucker Pro humbuckers in neck and bridge positions.
 
-??? example "Unique Specifications"
+[//]: # (TODO: review the photo of the week19)
+
+<figure markdown="span" >
+  ![Les Paul Classic Antique week 19](img/2007-les-paul-classic-antique-week-15-body.webp){ width="300"}
+  <figcaption>
+    The unique body of the Les Paul Classic Antique week 19.
+</figcaption>
+</figure>
+
+??? example "Unique Specifications (click to expand)"
 
     === "BODY"
         * **Top Species**: Zebrawood
@@ -155,23 +215,29 @@ The guitar is packed with two Burstbucker Pro humbuckers in neck and bridge posi
         * **Neck Pickup**: Burstbucker Pro humbuckers
         * **Bridge Pickup**: Burstbucker Pro humbuckers
 
-    reference: [Gibson.com](https://web.archive.org/web/20080615020627/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/Discontinuted%20Models/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%20Zebra/)
+    _reference: [Gibson.com](https://web.archive.org/web/20080615020627/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/Discontinuted%20Models/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%20Zebra/)_
 
 ---
-![Les Paul Classic Antique week 27](img/2007-les-paul-classic-antique-week-27-full-body.jpeg){ width="240" align=right}
 ### Guitar Of The Week 27 - Les Paul Classic Antique - Faded Cherry
 
 
 The Week 27's Les Paul Classic Antique continues Gibson's Classic line with vintage touches.
 The mahogany top is finished in [Faded Cherry](img/2007-les-paul-classic-antique-week-27-body.jpeg). The pickups are '57 Classic PAF humbuckers.
 
-??? example "Unique Specifications"
+<figure markdown="span">
+   ![Les Paul Classic Antique week 27](img/2007-les-paul-classic-antique-week-27-full-body.jpeg){ width="500"}
+  <figcaption>
+    A Les Paul Classic Antique in Faded Cherry, the Guitar Of The Week #27.
+</figcaption>
+</figure>
+
+??? example "Unique Specifications (click to expand)"
 
     === "BODY"
         * **Top Species**: Mahogany
         * **Finishes**: Faded Cherry
 
-    reference: [Gibson.com](https://web.archive.org/web/20090527183253/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%5FPaul%5FClassic%5FAntique%2DWk%5F27/)
+    _reference: [Gibson.com](https://web.archive.org/web/20090527183253/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%5FPaul%5FClassic%5FAntique%2DWk%5F27/)_
 
 ---
 ![Les Paul Classic Antique Week 33 headstock](img/2007-les-paul-classic-antique-week-33-headstock.jpg){ align=right width="170" }
@@ -182,7 +248,7 @@ It is easy to confuse the regular edition of the Antique with The Guitar of The 
 They are both in a vintage sunburst with chrome hardware.
 But very distinct details make week #33 different from its sister.
 
-![Les Paul Classic Antique Week 33 body](img/2007-les-paul-classic-antique-week-33-body.jpg){ align=left width="280" }
+[//]: # (![Les Paul Classic Antique Week 33 body]&#40;img/2007-les-paul-classic-antique-week-33-body.jpg&#41;{ align=left width="280" })
 The headstock of the limited edition has a pre-war Gibson logo.
 The crown and the binding are not present on the headstock.
 The regular Les Paul Model silk screen replace the crown.
@@ -191,7 +257,14 @@ The finish is also something to pay attention to.
 The limited edition has a smooth satin finish instead of a gloss finish. Finally, the vintage sunburst is darker in this
 model.
 
-??? example "Unique Specifications"
+<figure markdown="span" >
+  ![Les Paul Classic Antique Week 33 body](img/2007-les-paul-classic-antique-week-33-body.jpg){ width="500" }
+  <figcaption>
+    The satin finish of the week #33 is visible on the body.
+</figcaption>
+</figure>
+
+??? example "Unique Specifications (click to expand)"
 
     On top of the specification of the regular model, the week #33 has the following unique features:
 
@@ -204,7 +277,7 @@ model.
         * **Head Inlay**: Americana "Gibson" Script
         * **Head Binding**: None
 
-    reference: [Gibson.com](https://web.archive.org/web/20090527185150/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%5FClassic%5FAntique%5FM%5FWk33/)
+    _reference: [Gibson.com](https://web.archive.org/web/20090527185150/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%5FClassic%5FAntique%5FM%5FWk33/)_
 
 ---
 ## External links

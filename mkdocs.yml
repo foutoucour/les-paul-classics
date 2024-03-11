@@ -21,10 +21,6 @@ markdown_extensions:
           name: mermaid
   - pymdownx.tasklist:
       custom_checkbox: true
-nav:
-  - index.md
-  - Blog:
-      - blog/index.md
 plugins:
   - search
   - table-reader
@@ -69,5 +65,11 @@ theme:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-#extra_css:
-#  - stylesheets/no-table-of-content.css
+nav:
+  - index.md
+  - Models:
+    - models/index.md
+    - blog/posts/2007-les-paul-classic-antique.md
+    - blog/posts/2007-les-paul-classic-custom.md
+  - Blog:
+      - blog/index.md

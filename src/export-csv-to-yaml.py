@@ -15,12 +15,14 @@ csv_file_path = "../docs/guitares - export.csv"
 # List of all guitars
 yaml_file_path = "../docs/generated_guitars.yml"
 
-# list of classic antique in the file.
+classic_1960_yaml_file_path = (
+    "../docs/blog/posts/yml/generated_guitars_classic_1960.yml"
+)
 classic_antique_yaml_file_path = (
-    "../docs/blog/posts/generated_guitars_classic_antique.yml"
+    "../docs/blog/posts/yml/generated_guitars_classic_antique.yml"
 )
 classic_custom_yaml_file_path = (
-    "../docs/blog/posts/generated_guitars_classic_custom.yml"
+    "../docs/blog/posts/yml/generated_guitars_classic_custom.yml"
 )
 
 
@@ -76,13 +78,17 @@ def main():
     with open(yaml_file_path, "w") as file:
         yaml.dump(dicts, file, sort_keys=False)
 
+    with open(classic_1960_yaml_file_path, "w") as file:
+        elements = [d for d in dicts if "1960" in d["model"].lower()]
+        yaml.dump(elements, file, sort_keys=False)
+
     with open(classic_antique_yaml_file_path, "w") as file:
-        antiques = [d for d in dicts if "antique" in d["model"].lower()]
-        yaml.dump(antiques, file, sort_keys=False)
+        elements = [d for d in dicts if "antique" in d["model"].lower()]
+        yaml.dump(elements, file, sort_keys=False)
 
     with open(classic_custom_yaml_file_path, "w") as file:
-        antiques = [d for d in dicts if "custom" in d["model"].lower()]
-        yaml.dump(antiques, file, sort_keys=False)
+        elements = [d for d in dicts if "custom" in d["model"].lower()]
+        yaml.dump(elements, file, sort_keys=False)
 
 
 if __name__ == "__main__":
