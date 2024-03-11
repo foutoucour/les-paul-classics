@@ -1,6 +1,6 @@
 - model: Les Paul Classic Custom
   starting: '2007'
-  ending: '2008'
+  ending: '2012'
   link: '<a href="https://web.archive.org/web/20080724043107/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Custom/"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-custom-2007-2008"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
@@ -49,4 +49,22 @@
   ending: '2014'
   link: '<a href="https://web.archive.org/web/20171014075313/http://www.gibson.com/Products/Electric-Guitars/Les-Paul/Gibson-USA/Les-Paul-Custom-Classic-Light.aspx"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-custom-lite-2014"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Epiphone Peter Frampton Custom Les Paul 2018 Ebony Phenix
+  starting: '2018'
+  ending: '2018'
+  link: '<a href="Epiphone Ltd Ed Peter Frampton LP Custom PRO"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/epiphone-peter-frampton-signature-les-paul-custom-pro-premium-signed"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Epiphone Ace Frehley Signature Budokan Les Paul Custom
+  starting: '2012'
+  ending: '2012'
+  link: '<a href="Epiphone Ace Frehley Budokan"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/epiphone-ace-frehley-signature-budokan-les-paul-custom"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Epiphone Les Paul Custom Outfit 1955
+  starting: '2016'
+  ending: '2019'
+  link: '<a href="https://web.archive.org/web/20170529022148/http://www.epiphone.com/products/electrics/les-paul/ltd-ed-inspired-by-1955-lp-custom-outfit.aspx"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/epiphone-inspired-by-1955-les-paul-custom-outfit?item_region=XX"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'

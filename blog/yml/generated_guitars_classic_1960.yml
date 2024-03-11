@@ -1,0 +1,33 @@
+- model: Les Paul Classic 1960
+  starting: '1989'
+  ending: '2008'
+  link: '<a href="https://web.archive.org/web/19970127181843/http://www.gibson.com/products/gibson/1995/lpc/lpc7.html"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar?item_region=XX&year_min=1989&year_max=1993&sort=price_with_sale%7Casc"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Les Paul Classic 1960 DC
+  starting: '2003'
+  ending: '2004'
+  link: '<a href="https://web.archive.org/web/20030812171659/http://www.gibson.com/products/gibson/lespaul/lpcd.html"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-double-cutaway-2003-2004"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Les Paul Classic 1960 Plus
+  starting: '1991'
+  ending: '2001'
+  link: '<a href="https://web.archive.org/web/19970127181849/http://www.gibson.com/products/gibson/1995/lpc/lpc8.html"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-plus"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Les Paul Classic 1960 Premium Plus
+  starting: '1993'
+  ending: '2001'
+  link: '<a href="https://web.archive.org/web/19970127181803/http://www.gibson.com/products/gibson/1995/lpc/lpc2.html"target="_blank">:material-folder-wrench:
+    Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-premium-plus-1993-2001"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
+    reverb</a>'
+- model: Les Paul Classic 1960 Premium Plus Birdeyes
+  starting: '1997'
+  ending: '1997'
+  link: '<a href="https://web.archive.org/web/19970127181812/http://www.gibson.com/products/gibson/1995/lpc/lpc3.html"target="_blank">:material-folder-wrench:
+    Specs</a>'
+- model: Les Paul Classic 1960 3 pickups
+  starting: '2003'
+  ending: '2003'
+  link: ''
