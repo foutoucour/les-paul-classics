@@ -19,10 +19,10 @@ and an aged binding on the body and neck.
 <!-- more -->
 
 The regular edition of Les Paul Classic Antique was produced between 2007 and 2008.
-Additionally, in 2007, the Les Paul Classic Antique was also part of
+In 2007, the Les Paul Classic Antique was also part of
 the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
 
-All the antique comes initially with a Hardshell With Black Reptile Pattern with white interior.
+All the Antique come initially with a Hardshell With a Black Reptile Pattern with a white interior.
 
 ## A royal headstock
 
@@ -34,9 +34,9 @@ This crown is not a unique feature. It can also be found on the SG or ES models.
 <figure markdown="span">
   ![Image title](https://dummyimage.com/600x400/)
   <figcaption>
-    On the left, a typical headstock of a Les Paul Classic.
+    On the left is a typical headstock of a Les Paul Classic.
     <br/>
-    On the right, the crowned headstock of a Les Paul Classic Antique.
+    On the right is the crowned headstock of a Les Paul Classic Antique.
   </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ It is more evident in the biding as it is white or cream. However,  the entire g
 <figure markdown="span">
   ![Image title](https://dummyimage.com/600x400/)
   <figcaption>
-    On the left, a natural binding on a Les Paul Classic 2020.
+    On the left is a natural binding on a Les Paul Classic 2020.
     <br/>
     On the right, aged binding on antique on a GOTW#14.
 </figcaption>
@@ -73,8 +73,8 @@ It only exists in one regular edition and six limited editions, part of the [Gui
 [//]: # (![Les Paul Classic Antique Honeyburst2]&#40;img/2007-les-paul-classic-antique-honey-burst2.jpeg&#41;{ width="140" align=right})
 
 The regular edition of the Les Paul Classic Antique is a vintage-inspired guitar.
-It comes with a AA maple top, a mahogany body, and a mahogany neck with a gloss finish.
-It is loaded with two ’57 Classic humbuckers.
+It comes with an AA maple top, a mahogany body, and a mahogany neck with a gloss finish.
+It is loaded with two '57 Classic humbuckers.
 
 
 It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-antique-honey-burst2.jpeg),
@@ -118,8 +118,8 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
         *  **Tuners**: Green Key
 
     === "ELECTRONICS"
-        * **Neck Pickup**: ’57 Classic Plus, Uncovered With Nickel Polepieces
-        * **Bridge Pickup**: ’57 Classic Plus, Uncovered With Nickel Polepieces
+        * **Neck Pickup**: '57 Classic Plus, Uncovered With Nickel Polepieces
+        * **Bridge Pickup**: '57 Classic Plus, Uncovered With Nickel Polepieces
         * **Controls**: 2 Volume, 2 Tone, 3-Way Switch
 
     _reference: [Gibson.com](https://web.archive.org/web/20080724043054/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Antique/)_
@@ -128,9 +128,8 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
 ---
 ### Guitar Of The Week 02 - Les Paul Classic Antique - fireburst
 
-The Week 2 - Les Paul Classic Antique, released on January 29th, 2007, is a Les Paul Classic Antique, including a
-figured maple top and a pair of Gibson's '57 Classic humbuckers—with a special Fireburst finish.
-The finish is also called "lava burst" and was feature on the CG Supreme of 2000 - 2007.
+The Week 2 - Les Paul Classic Antique, released on January 29th, 2007, is a Les Paul Classic Antique, including a figured maple top and a pair of Gibson's '57 Classic humbuckers—with an exceptional Fireburst finish.
+The finish is also called "lava burst" and featured on the CG Supreme of 2000 - 2007.
 
 [//]: # (TODO: Add a picture of the CG Supreme.)
 
@@ -164,8 +163,8 @@ by Tom Morgan. The finishing is sometimes called Tom Morgan Lava. The back is pa
 
 For Week 14, The Les Paul Classic Antique is updated with unique H-90 pickups and an Iced Tea Sunburst finish on a
 figured maple top. Gibson's H-90 stacked double coil pickup results from a close collaboration
-with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90, but with none of the
-60-cycle hum that usually plagues traditional single coil pickups.
+with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90 but with none of the
+60-cycle hum that usually plagues traditional single-coil pickups.
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -188,8 +187,8 @@ with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P
 ### Guitar Of The Week 19 - Les Paul Classic Antique - Zebra
 
 The week 19 offers a unique [Zebrawood](https://www.wood-database.com/zebrawood/) top without binding.
-This unique wood is known for its striking appearance and gives a rough and wild look to the guitar.
-Mind that the tops have different waves and lines and can differ a lot from one guitar to another.
+This unique wood is known for its striking appearance and gives the guitar a rough and wild look.
+Mind that the tops have different waves and lines and can differ significantly from one guitar to another.
 It can be hard to evaluate the quality of the wood from a picture.
 The finish is a natural satin.
 
@@ -246,12 +245,12 @@ The mahogany top is finished in [Faded Cherry](img/2007-les-paul-classic-antique
 
 It is easy to confuse the regular edition of the Antique with The Guitar of The Week #33.
 They are both in a vintage sunburst with chrome hardware.
-But very distinct details make week #33 different from its sister.
+However, the distinct details make week #33 different from its sister.
 
 [//]: # (![Les Paul Classic Antique Week 33 body]&#40;img/2007-les-paul-classic-antique-week-33-body.jpg&#41;{ align=left width="280" })
 The headstock of the limited edition has a pre-war Gibson logo.
 The crown and the binding are not present on the headstock.
-The regular Les Paul Model silk screen replace the crown.
+The regular Les Paul Model silk screen replaces the crown.
 
 The finish is also something to pay attention to.
 The limited edition has a smooth satin finish instead of a gloss finish. Finally, the vintage sunburst is darker in this
@@ -260,7 +259,7 @@ model.
 <figure markdown="span" >
   ![Les Paul Classic Antique Week 33 body](img/2007-les-paul-classic-antique-week-33-body.jpg){ width="500" }
   <figcaption>
-    The satin finish of the week #33 is visible on the body.
+    The satin finish of week #33 is visible on the body.
 </figcaption>
 </figure>
 

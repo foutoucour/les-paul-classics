@@ -9,20 +9,20 @@ categories:
 # The Classic Customs
 ![Image title](https://dummyimage.com/1200x500/)
 
-In 2007, **Gibson**, along the [Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the fist version of the Les Paul Classic Custom.
+In 2007, **Gibson**, along with the [Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
 The guitar was a mix of the Les Paul Custom and the Les Paul Classic, with a mahogany body and neck, a maple top, and a rosewood fingerboard.
 <!-- more -->
 
-Additionally, in 2007, the Les Paul Classic Antique was also part of the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
-Followed, then by several additional runs in 2011 to 2012, then in 2014, with different specs.
+In 2007, the Les Paul Classic Antique was also part of the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
+Followed by several additional runs from 2011 to 2012 and then in 2014, with different specs.
 No classic custom was produced after 2014.
 
-The Classic Custom shares the same distinct features than her sister, the [crown inlay on the headstock](2007-les-paul-classic-antique.md#a-royal-headstock), the [aged binding](2007-les-paul-classic-antique.md#aged-bindings).
+The Classic Custom shares the same distinct features as her sister: the [crown inlay on the headstock](2007-les-paul-classic-antique.md#a-royal-headstock) and the [aged binding](2007-les-paul-classic-antique.md#aged-bindings).
 
-All the Classic Custom have a common attribute.
-They all are close to a model produced by the Gibson Les Paul Shop.
-Many of them mimics the fantastic Black Beauty, with an ebony finish.
-That's a reason why they wear a multi binding.
+All the Classic Customs have a common attribute.
+They are all close to a model the Gibson Les Paul Custom Shop produced.
+Many of them mimic the fantastic Black Beauty with an ebony finish.
+That's the reason why they wear multi-binding clothes.
 It's a tribute to the original Black Beauty.
 
 <figure markdown="span">
@@ -39,7 +39,7 @@ The initial Les Paul Classic Custom was produced in 2007 and 2008.
 In 2007, during the [Guitar of the Week](2007-guitar-of-the-week.md) series,
 five different versions of the Les Paul Classic Custom were produced, each with unique features.
 
-The Les Paul Classic Custom was also produced in 2011 and 2012, and in 2014.
+The Les Paul Classic Custom was also produced in 2011, 2012, and 2014.
 
 ??? info "Inventory of the Les Paul Classic Custom (click to expand)"
     {{ read_yaml('./yml/generated_guitars_classic_custom.yml')  }}
@@ -49,13 +49,13 @@ The Les Paul Classic Custom was also produced in 2011 and 2012, and in 2014.
 ---
 ### Les Paul Classic Custom 2007-2008
 
-The guitar was equipped with a pair of unique gold-appointed ’57 Classic humbuckers and a slim-taper neck.
-This version was only available in a black ebony finish, with a aged binding and gold hardware, making it look like a Black beauty from the 50's.
+The guitar had a pair of unique gold-appointed '57 Classic humbuckers and a slim-taper neck.
+This version was only available in a black ebony finish, with an aged binding and gold hardware, making it look like a Black beauty from the 50s.
 
 The first edition, only available in a black ebony finish, was produced between 2007 and 2008, with only 150 to 200 copies,
 making it one of the rarest Les Paul Classic models ever produced by Gibson.
 
-All these assets make the Les Paul Classic Custom a very desirable guitar for collectors.
+All these assets make the Les Paul Classic Custom a desirable guitar for collectors.
 
 ??? example "Specifications (click to expand)"
 
@@ -85,8 +85,8 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
         *  **Tuners**: Gold Grover Keystone
 
     === "ELECTRONICS"
-        * **Neck Pickup**: ’57 Classic Plus, Uncovered With Nickel Polepieces
-        * **Bridge Pickup**: ’57 Classic Plus, Uncovered With Nickel Polepieces
+        * **Neck Pickup**: '57 Classic Plus, Uncovered With Nickel Polepieces
+        * **Bridge Pickup**: '57 Classic Plus, Uncovered With Nickel Polepieces
         * **Controls**: 2 Volume, 2 Tone, 3-Way Switch
 
     _reference: [Gibson.com](https://web.archive.org/web/20080724043107/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Custom/)_
@@ -101,7 +101,7 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
 ---
 ### Week 16 - Les Paul Classic Custom Silverburst
 
-[//]: # (TODO: Add description silverburst)
+[//]: # (TODO: Add description silver burst)
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -126,7 +126,7 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527183207/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%20Classic%20Custom%20Silverburst/)_
 
-[//]: # (TODO: Add picture of the Silverburst)
+[//]: # (TODO: Add a picture of the Silverburst)
 
 ---
 ### Week 28 - Les Paul Classic Custom 2 P-90 Pickups
@@ -153,7 +153,6 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
         * **Finishes**: Creme
 
     === "HARDWARE"
-        *  **Bridge**: Nashville
         *  **Knobs**: Gold Speed Knobs
 
     === "ELECTRONICS"
@@ -175,7 +174,6 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
 
     === "HARDWARE"
         *  **Plating Finish**: Chrome
-        *  **Bridge**: Nashville
         *  **Knobs**: Gold Speed Knobs
         *  **Tuners**: Chrome Grover Keystone
 
@@ -193,9 +191,6 @@ All these assets make the Les Paul Classic Custom a very desirable guitar for co
 [//]: # (TODO: Add description week 46)
 
 ??? example "Unique Specifications (click to expand)"
-
-    === "HARDWARE"
-        *  **Bridge**: Nashville
 
     === "ELECTRONICS"
         * **Neck Pickup**: Gold Covered '57 Classic Humbucker
