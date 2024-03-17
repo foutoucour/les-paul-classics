@@ -1,8 +1,15 @@
 
 # The reborn of the Les Paul, the Classics
-![Image title](https://dummyimage.com/1200x500/)
 
 [//]: # (![Les Paul Classic 1960 with Model]&#40;img/1996-Gibson-Les-Paul-Classic-consignment-12-scaled.jpg&#41;)
+
+
+<figure markdown="span">
+    ![Head of a Les Paul Classic 1960, the original model](https://dummyimage.com/1200x500/)
+    <figcaption>
+    Head of a Les Paul Classic 1960, the original model
+</figcaption>
+</figure>
 
 <div class="grid cards" markdown>
 -   :simple-c: __Les Paul Classic 1960__
@@ -44,5 +51,5 @@ The Classic has been produced in different versions, and each one has its own un
 Different models have been produced, and we are documenting them all.
 
 
-??? info "Inventory of the Les Paul Classic (click to expand)"
+!!! info "Inventory of the Les Paul Classic (click to expand)"
     {{ read_yaml('./generated_guitars_classic.yml')  }}

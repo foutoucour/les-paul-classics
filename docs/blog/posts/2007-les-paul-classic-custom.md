@@ -7,13 +7,19 @@ categories:
 ---
 
 # The Classic Customs
-![Image title](https://dummyimage.com/1200x500/)
+
+<figure markdown="span">
+    ![Head of a first edition Les Paul Classic Custom](https://dummyimage.com/2400x1000/)
+    <figcaption>
+    Head of a first edition Les Paul Classic Custom
+</figcaption>
+</figure>
 
 In 2007, **Gibson**, along with the [Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
 The guitar was a mix of the Les Paul Custom and the Les Paul Classic, with a mahogany body and neck, a maple top, and a rosewood fingerboard.
 <!-- more -->
 
-In 2007, the Les Paul Classic Antique was also part of the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
+In 2007, the Les Paul Classic Custom was also part of the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
 Followed by several additional runs from 2011 to 2012 and then in 2014, with different specs.
 No classic custom was produced after 2014.
 
@@ -23,7 +29,8 @@ All the Classic Customs have a common attribute.
 They are all close to a model the Gibson Les Paul Custom Shop produced.
 Many of them mimic the fantastic Black Beauty with an ebony finish.
 That's the reason why they wear multi-binding clothes.
-It's a tribute to the original Black Beauty.
+They look to be tributes to the original Les Paul Custom Black Beauty.
+The original Classic Custom from 2007 can be seen as a tribute the <a href="https://web.archive.org/web/20230727062646/https://www.gibson.com/en-US/Electric-Guitar/CUSGJ5555/Ebony-2-Pickup" target=_blank>1957's Les Paul Custom</a>.
 
 <figure markdown="span">
   ![Image title](https://dummyimage.com/600x400/)
@@ -35,11 +42,36 @@ It's a tribute to the original Black Beauty.
 
 ## Inventory of the Les Paul Classic Custom
 
-The initial Les Paul Classic Custom was produced in 2007 and 2008.
+The first Les Paul Classic Custom was produced in 2007 and 2008.
 In 2007, during the [Guitar of the Week](2007-guitar-of-the-week.md) series,
 five different versions of the Les Paul Classic Custom were produced, each with unique features.
 
 The Les Paul Classic Custom was also produced in 2011, 2012, and 2014.
+
+### A tribute to the Les Paul Custom
+
+Although Classic Custom guitars looked similar to the Les Paul Custom, some differences could be spotted by a keen eye.
+
+For instance, the first difference was in the fretboard inlays.
+While the Black Beauty had block inlays, Classic Custom had trapezoid inlays.
+Moreover, the first case of the neck was not inlaid, unlike the Black Beauty.
+
+The Classic Custom guitar had a slim taper neck, while the Black Beauty had a 50's round C.
+
+The headstock was another point of differentiation.
+It had a crown inlay, while the Les Paul Custom had a split diamond inlay.
+Exception for the edition 2011-2012, which out on a split-diamond inlay.
+
+The back of the guitar was also different.
+The 7-ply binding was only on the top of the body, whereas the back was not bound.
+In contrast, the Black Beauty had a 7-ply binding on both the top and the back.
+
+<figure markdown="span">
+    ![The back of a Classic Custom without the binding](https://www.12fret.com/wp-content/gallery/gibson_les_paul_classic_custom/gibson_les_paul_classic_custom_full_rear_1.jpg){ loading=lazy width="600" }
+  <figcaption>
+    The back of a Classic Custom without the binding. source: <a href="https://www.12fret.com/" target="_blank">The Twelfth Fret</a>
+</figcaption>
+</figure>
 
 ??? info "Inventory of the Les Paul Classic Custom (click to expand)"
     {{ read_yaml('./yml/generated_guitars_classic_custom.yml')  }}
@@ -49,7 +81,7 @@ The Les Paul Classic Custom was also produced in 2011, 2012, and 2014.
 ---
 ### Les Paul Classic Custom 2007-2008
 
-The guitar had a pair of unique gold-appointed '57 Classic humbuckers and a slim-taper neck.
+The guitar has a pair of unique gold-appointed '57 Classic humbuckers and a slim-taper neck.
 This version was only available in a black ebony finish, with an aged binding and gold hardware, making it look like a Black beauty from the 50s.
 
 The first edition, only available in a black ebony finish, was produced between 2007 and 2008, with only 150 to 200 copies,
@@ -131,7 +163,16 @@ All these assets make the Les Paul Classic Custom a desirable guitar for collect
 ---
 ### Week 28 - Les Paul Classic Custom 2 P-90 Pickups
 
-[//]: # (TODO: Add description week 28)
+For week 28, Gibson released a special edition Les Paul Classic Custom with two P-90 pickups.
+The guitar was available only in a black ebony finish, with an aged binding and gold hardware, which gave it a look similar to a [Les Paul Custom from 1954](https://www.gibson.com/en-US/Electric-Guitar/CUSZ44594/Ebony).
+
+The main difference between week 28 and the original Classic Custom was the pickups.
+Week 28 featured P-90s instead of humbuckers.
+The guitar also had a brass truss rod cover with the words `Les Paul` engraved on it.
+
+#### A tribute to the 1954's Black Beauty
+The two P-90 pickups on the guitar makes it a tribute to the [1954 Black Beauty](https://www.gibson.com/en-US/Electric-Guitar/CUSZ44594/Ebony).
+Note, the original Black Beauty had an alnico V "staple" pickup in the neck position and a P-90 in the bridge position.
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -141,11 +182,18 @@ All these assets make the Les Paul Classic Custom a desirable guitar for collect
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527183222/http://www.gibson.com/en%252Dus/Divisions/Gibson%2520USA/Guitar%2520of%2520the%2520Week/LP%255FClassic%255FCustom%252DWeek%255F28/&sa=D&source=editors&ust=1710042194717543&usg=AOvVaw19NzdIIphRKteKKV8gWUgp)_
 
-[//]: # (TODO: Add picture of the 2 P-90 Pickups)
+<figure markdown="span">
+    ![Close up of the pickups of the week 28](img/2007-les-paul-classic-custom-week-28-body-close-up.jpg){ loading=lazy width="500" }
+  <figcaption>
+    A close up of the pickups of the week 28. source: <a href="https://www.guitarlovers.pt/shop/gotw/" target="_blank">Guitar Lovers</a>
+  </figcaption>
+</figure>
 
 ---
 ### Week 39 - Les Paul Classic Custom - creme
-[//]: # (TODO: Add description week 39)
+
+Unlike most of the other Classic Custom models, the week 39 edition was only available in a creme finish.
+The guitar trades the aged bindings for white bindings. Gold covers hide the '57 Classic humbuckers.
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -161,7 +209,12 @@ All these assets make the Les Paul Classic Custom a desirable guitar for collect
 
     _reference: [Gibson.com](https://web.archive.org/web/20090512171947/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%2DClassic%2DCustom%2DWeek39/)_
 
-[//]: # (TODO: Add picture of week 39)
+<figure markdown="span">
+    ![Pictures of the headstock and the creme body of the week 39](img/2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
+  <figcaption>
+    Pictures of the headstock and the creme body of the week 39. source: <a href="https://reverb.com/ca/p/gibson-guitar-of-the-week-number-39-les-paul-classic-custom-creme-2007?item_region=XX" target="_blank">Reverb</a>
+  </figcaption>
+</figure>
 
 ---
 ### Week 42 - Les Paul Classic Custom w/3 Pickups - heritage cherry burst
@@ -307,3 +360,12 @@ All these assets make the Les Paul Classic Custom a desirable guitar for collect
     _reference: [Gibson.com](https://web.archive.org/web/20171014075313/http://www.gibson.com/Products/Electric-Guitars/Les-Paul/Gibson-USA/Les-Paul-Custom-Classic-Light.aspx)_
 
 [//]: # (TODO: Add picture classic custom lite)
+
+
+---
+## External links
+
+* <a href="https://www.musicradar.com/news/the-history-of-the-gibson-black-beauty" target=_blank>The history of the Gibson Black Beauty</a>
+
+[//]: # (* [A Les Paul Custom 3 pickups for sale]&#40;https://lostworldsinc.com/Original%201957%20Gibson%20Les%20Paul%20Custom%20Electric%20Guitar.html#:~:text=Late%201957%20marked%20the%20first,P90%2FAlnico%20dual%20pickup%20setup.&#41;)
+* <a href="https://www.youtube.com/watch?v=ljxC0JZbTGo&t=176s&ab_channel=TheTrogly%27sGuitarShow" target=_blank>2007 Gibson Les Paul P90 Classic Custom GOTW #28 Black Review + Demo</a>

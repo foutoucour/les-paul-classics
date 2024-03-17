@@ -8,8 +8,14 @@ categories:
 
 # The Classic Antique Family
 
-[//]: # (![Les Paul Classic Antique Headstock]&#40;img/2007-les-paul-classic-antique-headstock.webp&#41;)
-![Image title](https://dummyimage.com/1200x500/)
+[//]: # (![Head of a Les Paul Classic Antique, first edition]&#40;img/1989-les-paul-classic-1960-butterfly-case.jpg&#41;)
+![Les Paul Classic Antique Headstock](img/2007-les-paul-classic-antique-headstock.webp)
+<figure markdown="span">
+    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-headstock.webp){ loading=lazy }
+    <figcaption>
+    Head of a Les Paul Classic Custom, first edition
+</figcaption>
+</figure>
 
 
 In 2007, **Gibson**, along the [Les Paul Classic Custom](./2007-les-paul-classic-custom.md) did a short run of Les Paul
@@ -31,8 +37,10 @@ The Gibson Custom Shop has a split diamond inlay.
 The Classic Antique wears a crown that replaces the silk screen.
 This crown is not a unique feature. It can also be found on the SG or ES models.
 
+[//]: # (![Image title]&#40;https://dummyimage.com/600x400/&#41;)
+
 <figure markdown="span">
-  ![Image title](https://dummyimage.com/600x400/)
+    ![Head of a Les Paul Classic Antique, first edition](img/1989-les-paul-classic-1960-butterfly-case.jpg){ loading=lazy width="500" }
   <figcaption>
     On the left is a typical headstock of a Les Paul Classic.
     <br/>
