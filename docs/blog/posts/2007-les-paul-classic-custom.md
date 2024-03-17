@@ -39,15 +39,6 @@ The original Classic Custom from 2007 can be seen as a tribute the <a href="http
 </figcaption>
 </figure>
 
-
-## Inventory of the Les Paul Classic Custom
-
-The first Les Paul Classic Custom was produced in 2007 and 2008.
-In 2007, during the [Guitar of the Week](2007-guitar-of-the-week.md) series,
-five different versions of the Les Paul Classic Custom were produced, each with unique features.
-
-The Les Paul Classic Custom was also produced in 2011, 2012, and 2014.
-
 ### A tribute to the Les Paul Custom
 
 Although Classic Custom guitars looked similar to the Les Paul Custom, some differences could be spotted by a keen eye.
@@ -67,11 +58,20 @@ The 7-ply binding was only on the top of the body, whereas the back was not boun
 In contrast, the Black Beauty had a 7-ply binding on both the top and the back.
 
 <figure markdown="span">
-    ![The back of a Classic Custom without the binding](https://www.12fret.com/wp-content/gallery/gibson_les_paul_classic_custom/gibson_les_paul_classic_custom_full_rear_1.jpg){ loading=lazy width="600" }
+    ![The back of a Classic Custom 2012 with no binding](https://www.12fret.com/wp-content/gallery/gibson_les_paul_classic_custom/gibson_les_paul_classic_custom_full_rear_1.jpg){ loading=lazy width="600" }
   <figcaption>
-    The back of a Classic Custom without the binding. source: <a href="https://www.12fret.com/" target="_blank">The Twelfth Fret</a>
+    The back of a Classic Custom 2012 without the binding.<br /> source: <a href="https://www.12fret.com/" target="_blank">The Twelfth Fret</a>
 </figcaption>
 </figure>
+
+## Inventory of the Les Paul Classic Custom
+
+The first Les Paul Classic Custom was produced in 2007 and 2008.
+In 2007, during the [Guitar of the Week](2007-guitar-of-the-week.md) series,
+five different versions of the Les Paul Classic Custom were produced, each with unique features.
+
+The Les Paul Classic Custom was also produced in 2011, 2012, and 2014.
+
 
 ??? info "Inventory of the Les Paul Classic Custom (click to expand)"
     {{ read_yaml('./yml/generated_guitars_classic_custom.yml')  }}
@@ -88,6 +88,13 @@ The first edition, only available in a black ebony finish, was produced between 
 making it one of the rarest Les Paul Classic models ever produced by Gibson.
 
 All these assets make the Les Paul Classic Custom a desirable guitar for collectors.
+
+<figure markdown="span">
+    ![Les Paul Classic Custom 2007](https://dummyimage.com/600x400/){ loading=lazy width="600" }
+  <figcaption>
+    The crowned headstock of a Les Paul Classic Custom.
+</figcaption>
+</figure>
 
 ??? example "Specifications (click to expand)"
 
@@ -122,13 +129,6 @@ All these assets make the Les Paul Classic Custom a desirable guitar for collect
         * **Controls**: 2 Volume, 2 Tone, 3-Way Switch
 
     _reference: [Gibson.com](https://web.archive.org/web/20080724043107/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Custom/)_
-
-<figure markdown="span">
-    ![Les Paul Classic Custom 2007](img/2007-les-paul-classic-custom.jpeg){ width="600" }
-  <figcaption>
-    The crowned headstock of a Les Paul Classic Custom.
-</figcaption>
-</figure>
 
 ---
 ### Week 16 - Les Paul Classic Custom Silverburst
@@ -174,6 +174,13 @@ The guitar also had a brass truss rod cover with the words `Les Paul` engraved o
 The two P-90 pickups on the guitar makes it a tribute to the [1954 Black Beauty](https://www.gibson.com/en-US/Electric-Guitar/CUSZ44594/Ebony).
 Note, the original Black Beauty had an alnico V "staple" pickup in the neck position and a P-90 in the bridge position.
 
+<figure markdown="span">
+    ![Close up of the pickups of the week 28](img/2007-les-paul-classic-custom-week-28-body-close-up.jpg){ loading=lazy width="500" }
+  <figcaption>
+    A close up of the pickups of the week 28.<br /> source: <a href="https://www.guitarlovers.pt/shop/gotw/" target="_blank">Guitar Lovers</a>
+  </figcaption>
+</figure>
+
 ??? example "Unique Specifications (click to expand)"
 
     === "ELECTRONICS"
@@ -182,18 +189,20 @@ Note, the original Black Beauty had an alnico V "staple" pickup in the neck posi
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527183222/http://www.gibson.com/en%252Dus/Divisions/Gibson%2520USA/Guitar%2520of%2520the%2520Week/LP%255FClassic%255FCustom%252DWeek%255F28/&sa=D&source=editors&ust=1710042194717543&usg=AOvVaw19NzdIIphRKteKKV8gWUgp)_
 
-<figure markdown="span">
-    ![Close up of the pickups of the week 28](img/2007-les-paul-classic-custom-week-28-body-close-up.jpg){ loading=lazy width="500" }
-  <figcaption>
-    A close up of the pickups of the week 28. source: <a href="https://www.guitarlovers.pt/shop/gotw/" target="_blank">Guitar Lovers</a>
-  </figcaption>
-</figure>
 
 ---
 ### Week 39 - Les Paul Classic Custom - creme
 
 Unlike most of the other Classic Custom models, the week 39 edition was only available in a creme finish.
 The guitar trades the aged bindings for white bindings. Gold covers hide the '57 Classic humbuckers.
+
+<figure markdown="span">
+    ![Pictures of the headstock and the creme body of the week 39](img/2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
+  <figcaption>
+    Pictures of the headstock and the creme body of the week 39.<br/> source: <a href="https://reverb.com/ca/p/gibson-guitar-of-the-week-number-39-les-paul-classic-custom-creme-2007?item_region=XX" target="_blank">Reverb</a>
+  </figcaption>
+</figure>
+
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -208,13 +217,6 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
         * **Bridge Pickup**: Gold Covered '57 Classic Humbucker
 
     _reference: [Gibson.com](https://web.archive.org/web/20090512171947/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%2DClassic%2DCustom%2DWeek39/)_
-
-<figure markdown="span">
-    ![Pictures of the headstock and the creme body of the week 39](img/2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
-  <figcaption>
-    Pictures of the headstock and the creme body of the week 39. source: <a href="https://reverb.com/ca/p/gibson-guitar-of-the-week-number-39-les-paul-classic-custom-creme-2007?item_region=XX" target="_blank">Reverb</a>
-  </figcaption>
-</figure>
 
 ---
 ### Week 42 - Les Paul Classic Custom w/3 Pickups - heritage cherry burst
@@ -286,7 +288,19 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
 
 ---
 ### Les Paul Classic Custom 2014
-[//]: # (TODO: Add description classic custom 2014)
+
+In 2014, Gibson released a limited edition of the Classic Custom of 400 copies for <a href="https://www.guitarcenter.com/" target="_blank">Guitar Center</a>.
+This limited edition had a unique headstock with a flower pot inlay. The flower pot was a tribute to the <a href="https://prewargibsonl-5.com/2022/06/10/the-story-of-the-gibson-flowerpot-by-paul-alcantara-and-darryl-wolfe/#:~:text=The%20'flowerpot'%20motif%20that%20adorns,L%2D5%20by%20several%20months." target=_blank>early Gibson models</a>.
+The model featured the same specs as the 2011-2012 edition.
+
+[//]: # (TODO: improve the picture somehow)
+<figure markdown="span">
+    ![Unique headstock with flower pot of the limited edition Classic Custom 2014.](img%2F2014-les-paul-classic-custom-limited-edition-flower-pot-headstock.jpg){ loading=lazy width="500" }
+  <figcaption>
+    Unique headstock with flower pot of the limited edition Classic Custom 2014.<br/> source: <a href="https://www.reddit.com/r/gibson/comments/uvix81/found_this_oddball_today_at_my_local_shop_2014/" target="_blank">Reddit</a>
+  </figcaption>
+</figure>
+
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -366,6 +380,5 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
 ## External links
 
 * <a href="https://www.musicradar.com/news/the-history-of-the-gibson-black-beauty" target=_blank>The history of the Gibson Black Beauty</a>
-
-[//]: # (* [A Les Paul Custom 3 pickups for sale]&#40;https://lostworldsinc.com/Original%201957%20Gibson%20Les%20Paul%20Custom%20Electric%20Guitar.html#:~:text=Late%201957%20marked%20the%20first,P90%2FAlnico%20dual%20pickup%20setup.&#41;)
 * <a href="https://www.youtube.com/watch?v=ljxC0JZbTGo&t=176s&ab_channel=TheTrogly%27sGuitarShow" target=_blank>2007 Gibson Les Paul P90 Classic Custom GOTW #28 Black Review + Demo</a>
+* <a href

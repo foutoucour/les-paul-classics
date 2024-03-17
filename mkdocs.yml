@@ -73,3 +73,4 @@ nav:
     - blog/posts/2007-les-paul-classic-custom.md
   - Blog:
       - blog/index.md
+  - resources.md

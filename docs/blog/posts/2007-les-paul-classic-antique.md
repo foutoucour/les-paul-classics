@@ -8,8 +8,6 @@ categories:
 
 # The Classic Antique Family
 
-[//]: # (![Head of a Les Paul Classic Antique, first edition]&#40;img/1989-les-paul-classic-1960-butterfly-case.jpg&#41;)
-![Les Paul Classic Antique Headstock](img/2007-les-paul-classic-antique-headstock.webp)
 <figure markdown="span">
     ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-headstock.webp){ loading=lazy }
     <figcaption>
@@ -37,10 +35,8 @@ The Gibson Custom Shop has a split diamond inlay.
 The Classic Antique wears a crown that replaces the silk screen.
 This crown is not a unique feature. It can also be found on the SG or ES models.
 
-[//]: # (![Image title]&#40;https://dummyimage.com/600x400/&#41;)
-
 <figure markdown="span">
-    ![Head of a Les Paul Classic Antique, first edition](img/1989-les-paul-classic-1960-butterfly-case.jpg){ loading=lazy width="500" }
+    ![Head of a Les Paul Classic Antique, first edition](2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
   <figcaption>
     On the left is a typical headstock of a Les Paul Classic.
     <br/>
@@ -91,7 +87,7 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
 [//]: # (  ![Image title]&#40;https://dummyimage.com/600x400/&#41;)
 
 <figure markdown="span">
-  ![Les Paul Classic Antique Honeyburst2](img/2007-les-paul-classic-antique-honey-burst2.jpeg){ width="600"}
+  ![Les Paul Classic Antique Honeyburst2](img/2007-les-paul-classic-antique-honey-burst2.jpeg){ loading=lazy width="600"}
   <figcaption>
     A Les Paul Classic Antique in Honey Burst.
 </figcaption>
@@ -232,7 +228,7 @@ The Week 27's Les Paul Classic Antique continues Gibson's Classic line with vint
 The mahogany top is finished in [Faded Cherry](img/2007-les-paul-classic-antique-week-27-body.jpeg). The pickups are '57 Classic PAF humbuckers.
 
 <figure markdown="span">
-   ![Les Paul Classic Antique week 27](img/2007-les-paul-classic-antique-week-27-full-body.jpeg){ width="500"}
+   ![Les Paul Classic Antique week 27](img/2007-les-paul-classic-antique-week-27-full-body.jpg){ loading=lazy width="500"}
   <figcaption>
     A Les Paul Classic Antique in Faded Cherry, the Guitar Of The Week #27.
 </figcaption>
@@ -255,7 +251,6 @@ It is easy to confuse the regular edition of the Antique with The Guitar of The 
 They are both in a vintage sunburst with chrome hardware.
 However, the distinct details make week #33 different from its sister.
 
-[//]: # (![Les Paul Classic Antique Week 33 body]&#40;img/2007-les-paul-classic-antique-week-33-body.jpg&#41;{ align=left width="280" })
 The headstock of the limited edition has a pre-war Gibson logo.
 The crown and the binding are not present on the headstock.
 The regular Les Paul Model silk screen replaces the crown.
@@ -265,9 +260,9 @@ The limited edition has a smooth satin finish instead of a gloss finish. Finally
 model.
 
 <figure markdown="span" >
-  ![Les Paul Classic Antique Week 33 body](img/2007-les-paul-classic-antique-week-33-body.jpg){ width="500" }
+  ![Les Paul Classic Antique Week 33 body](img/2007-les-paul-classic-antique-week-33-body.jpg){ loading=lazy width="500" }
   <figcaption>
-    The satin finish of week #33 is visible on the body.
+    The satin finish of week #33 is visible on the body. <br />source: <a href="https://www.youtube.com/watch?v=8Q9l90UW-2U" target="_blank">Trogly's Guitar Show</a>
 </figcaption>
 </figure>
 
