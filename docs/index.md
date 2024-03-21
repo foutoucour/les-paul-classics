@@ -1,15 +1,24 @@
 
-# The reborn of the Les Paul, the Classics
+# Homepage
 
 [//]: # (![Les Paul Classic 1960 with Model]&#40;img/1996-Gibson-Les-Paul-Classic-consignment-12-scaled.jpg&#41;)
 
 
 <figure markdown="span">
-    ![Head of a Les Paul Classic 1960, the original model](https://dummyimage.com/1200x500/)
+    ![A Les Paul Classic 1960, the original model](img/1989-les-paul-classic-1960-1989-butterfly-case.jpg){ loading=lazy }
     <figcaption>
-    Head of a Les Paul Classic 1960, the original model
+    A Les Paul Classic 1960, the original model
 </figcaption>
 </figure>
+
+## Welcome to the Les Paul Classic Website
+
+Welcome to this website focused on the Les Paul Classic by Gibson,
+which is a contemporary take on the original Les Paul guitar from the 1960s.
+For those who are lucky enough to possess a Les Paul Classic,
+this website offers valuable insights and information.
+If you are an admirer of Gibson Les Paul guitars,
+I hope you will find the content presented here informative and engaging.
 
 <div class="grid cards" markdown>
 -   :simple-c: __Les Paul Classic 1960__

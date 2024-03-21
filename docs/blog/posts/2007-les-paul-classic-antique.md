@@ -9,7 +9,7 @@ categories:
 # The Classic Antique Family
 
 <figure markdown="span">
-    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-headstock.webp){ loading=lazy }
+    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-week-14-headstock-close-up-blue.jpg){ loading=lazy }
     <figcaption>
     Head of a Les Paul Classic Custom, first edition
 </figcaption>
@@ -36,11 +36,11 @@ The Classic Antique wears a crown that replaces the silk screen.
 This crown is not a unique feature. It can also be found on the SG or ES models.
 
 <figure markdown="span">
-    ![Head of a Les Paul Classic Antique, first edition](2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
+    ![Head of a Les Paul Classic Antique, first edition](img/side-by-side-headstock-week-14-honey.jpg){ loading=lazy width="500" }
   <figcaption>
-    On the left is a typical headstock of a Les Paul Classic.
+    On the top is a typical headstock of a Les Paul Classic.
     <br/>
-    On the right is the crowned headstock of a Les Paul Classic Antique.
+    On the bottom is the crowned headstock of a Les Paul Classic Antique.
   </figcaption>
 </figure>
 
@@ -53,9 +53,9 @@ The lacquer turns yellow.
 It is more evident in the biding as it is white or cream. However,  the entire guitar is affected by aging. On the Antique, the aging effect is only applied to the binding.
 
 <figure markdown="span">
-  ![Image title](https://dummyimage.com/600x400/)
+  ![aged binding](img/side-by-side-week-14-honey-close-up.jpg){ loading=lazy width="500" }
   <figcaption>
-    On the left is a natural binding on a Les Paul Classic 2020.
+    On the left is a natural binding on a current Les Paul Classic.
     <br/>
     On the right, aged binding on antique on a GOTW#14.
 </figcaption>
@@ -135,7 +135,14 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
 The Week 2 - Les Paul Classic Antique, released on January 29th, 2007, is a Les Paul Classic Antique, including a figured maple top and a pair of Gibson's '57 Classic humbuckers—with an exceptional Fireburst finish.
 The finish is also called "lava burst" and featured on the CG Supreme of 2000 - 2007.
 
-[//]: # (TODO: Add a picture of the CG Supreme.)
+<figure markdown="span" >
+  ![Les Paul Classic Antique week 02](img/2007-les-paul-classic-antique-week-02-body.jpg){ loading=lazy width="500"}
+  <figcaption>
+    The lavaburst finish of the Les Paul Classic Antique week 02.
+<br />
+source: <a href="https://fr.audiofanzine.com/guitare-lp/gibson/guitar-of-the-week-2-les-paul-classic-antique-fireburst/medias/photos/" target="_blank">Audiofanzine</a>
+</figcaption>
+</figure>
 
 
 ??? example "Unique Specifications (click to expand)"
@@ -153,6 +160,14 @@ The finish is also called "lava burst" and featured on the CG Supreme of 2000 - 
 It is another Les Paul Classic Antique. This Guitar has a unique finish, made and signed
 by Tom Morgan. The finishing is sometimes called Tom Morgan Lava. The back is painted black.
 
+<figure markdown="span" >
+  ![Les Paul Classic Antique week 05](img/2007-les-paul-classic-antique-week-05.jpg){ loading=lazy width="500"}
+  <figcaption>
+    The unique body of the Les Paul Classic Antique week 05.
+<br/> source: <a href="https://reverb.com/ca/item/80782934-gibson-les-paul-classic-tom-morgan-electric-guitar-2007-guitar-of-the-week" target="_blank">fusionmusic</a>
+</figcaption>
+</figure>
+
 ??? example "Unique Specifications (click to expand)"
 
     === "BODY"
@@ -160,7 +175,6 @@ by Tom Morgan. The finishing is sometimes called Tom Morgan Lava. The back is pa
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527185201/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%205/)_
 
-[//]: # (TODO: add a picture of week05)
 
 ---
 ### Guitar Of The Week 14 - Les Paul Classic Antique - H90
@@ -169,6 +183,13 @@ For Week 14, The Les Paul Classic Antique is updated with unique H-90 pickups an
 figured maple top. Gibson's H-90 stacked double coil pickup results from a close collaboration
 with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90 but with none of the
 60-cycle hum that usually plagues traditional single-coil pickups.
+
+<figure markdown="span" >
+  ![Les Paul Classic Antique week 14](img/2007-les-paul-classic-antique-week-14.jpg){ loading=lazy width="500"}
+  <figcaption>
+    The week 14 and its unique H-90 pickups.
+</figcaption>
+</figure>
 
 ??? example "Unique Specifications (click to expand)"
 
@@ -185,8 +206,6 @@ with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527185156/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/Les%20Paul%20Classic%20Antique%2014/)_
 
-[//]: # (TODO: Add a picture of the week14)
-
 ---
 ### Guitar Of The Week 19 - Les Paul Classic Antique - Zebra
 
@@ -201,9 +220,10 @@ The guitar is packed with two Burstbucker Pro humbuckers in neck and bridge posi
 [//]: # (TODO: review the photo of the week19)
 
 <figure markdown="span" >
-  ![Les Paul Classic Antique week 19](img/2007-les-paul-classic-antique-week-15-body.webp){ width="300"}
+  ![Les Paul Classic Antique week 19](img/2007-les-paul-classic-antique-week-19.jpg){ loading=lazy width="500"}
   <figcaption>
     The unique body of the Les Paul Classic Antique week 19.
+<br />source: <a href="https://loviesguitars.com/product/unplayed-2007-gibson-les-paul-classic-limited-edition-antique-zebrawood-ohsc/" target="_blank">Lovies Guitars</a>
 </figcaption>
 </figure>
 
@@ -230,7 +250,7 @@ The mahogany top is finished in [Faded Cherry](img/2007-les-paul-classic-antique
 <figure markdown="span">
    ![Les Paul Classic Antique week 27](img/2007-les-paul-classic-antique-week-27-full-body.jpg){ loading=lazy width="500"}
   <figcaption>
-    A Les Paul Classic Antique in Faded Cherry, the Guitar Of The Week #27.
+    A Les Paul Classic Antique in Faded Cherry,<br /> the Guitar Of The Week #27.
 </figcaption>
 </figure>
 

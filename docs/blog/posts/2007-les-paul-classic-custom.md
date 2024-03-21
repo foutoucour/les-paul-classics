@@ -199,7 +199,7 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
 <figure markdown="span">
     ![Pictures of the headstock and the creme body of the week 39](img/2007-les-paul-classic-custom-week-39-body-headstock.jpg){ loading=lazy width="500" }
   <figcaption>
-    Pictures of the headstock and the creme body of the week 39.<br/> source: <a href="https://reverb.com/ca/p/gibson-guitar-of-the-week-number-39-les-paul-classic-custom-creme-2007?item_region=XX" target="_blank">Reverb</a>
+    Pictures of the headstock and the creme body<br /> of the week 39.<br/> source: <a href="https://reverb.com/ca/p/gibson-guitar-of-the-week-number-39-les-paul-classic-custom-creme-2007?item_region=XX" target="_blank">Reverb</a>
   </figcaption>
 </figure>
 
@@ -381,4 +381,3 @@ The model featured the same specs as the 2011-2012 edition.
 
 * <a href="https://www.musicradar.com/news/the-history-of-the-gibson-black-beauty" target=_blank>The history of the Gibson Black Beauty</a>
 * <a href="https://www.youtube.com/watch?v=ljxC0JZbTGo&t=176s&ab_channel=TheTrogly%27sGuitarShow" target=_blank>2007 Gibson Les Paul P90 Classic Custom GOTW #28 Black Review + Demo</a>
-* <a href
