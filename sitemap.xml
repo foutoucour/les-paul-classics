@@ -2,52 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://foutoucour.github.io/les-paul-classics/resources/</loc>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/all-the-guitars-of-the-week-gotw/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/the-classic-antique-family/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/2024/the-classic-customs/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/models/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/archive/2024/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/category/classic-antique/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/category/guitar-of-the-week---gotw/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://foutoucour.github.io/les-paul-classics/blog/category/classic-custom/</loc>
-         <lastmod>2024-03-13</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
