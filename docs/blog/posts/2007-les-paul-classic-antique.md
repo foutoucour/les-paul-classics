@@ -11,7 +11,7 @@ categories:
 <figure markdown="span">
     ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-week-14-headstock-close-up-blue.jpg){ loading=lazy }
     <figcaption>
-    Head of a Les Paul Classic Custom, first edition
+    Headstock of a Les Paul Classic Custom, first edition
 </figcaption>
 </figure>
 
