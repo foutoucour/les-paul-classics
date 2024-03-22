@@ -8,7 +8,7 @@ draft: true
 # The Paul Classic 1960's
 
 <figure markdown="span">
-    ![Butterfly, a Les Paul Classic 1989, the very first year of the model](img/1989-les-paul-classic-1960-butterfly-case.jpg){ loading=lazy }
+    ![Butterfly, a Les Paul Classic 1989, the very first year of the model](img/1989-les-paul-classic-1960-headstock.jpg){ loading=lazy }
     <figcaption>
     Butterfly, a Les Paul Classic 1989, the very first year of the model.
 </figcaption>

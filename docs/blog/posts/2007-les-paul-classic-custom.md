@@ -9,13 +9,13 @@ categories:
 # The Classic Customs
 
 <figure markdown="span">
-    ![Head of a first edition Les Paul Classic Custom](https://dummyimage.com/2400x1000/)
+    ![Head of a first edition Les Paul Classic Custom](img/2007-les-paul-classic-custom-headstock.jpg)
     <figcaption>
     Head of a first edition Les Paul Classic Custom
 </figcaption>
 </figure>
 
-In 2007, **Gibson**, along with the [Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
+In 2007, **Gibson**, along with the [2007-les-paul-classic-antique.md](2007-les-paul-classic-antique.md)[Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
 The guitar was a mix of the Les Paul Custom and the Les Paul Classic, with a mahogany body and neck, a maple top, and a rosewood fingerboard.
 <!-- more -->
 
@@ -25,19 +25,21 @@ No classic custom was produced after 2014.
 
 The Classic Custom shares the same distinct features as her sister: the [crown inlay on the headstock](2007-les-paul-classic-antique.md#a-royal-headstock) and the [aged binding](2007-les-paul-classic-antique.md#aged-bindings).
 
+<figure markdown="span">
+    ![Headstocks of a Classic Antique and Classic Custom](img/side-by-side-custom-week-14-headstock.jpg){ loading=lazy width="500" }
+  <figcaption>
+    On the top, the headtock of a Classic Custom 2007.<br/>
+    On the bottom, the headstock of a Classic Antique 2007.<br/>
+</figcaption>
+</figure>
+
 All the Classic Customs have a common attribute.
 They are all close to a model the Gibson Les Paul Custom Shop produced.
 Many of them mimic the fantastic Black Beauty with an ebony finish.
 That's the reason why they wear multi-binding clothes.
 They look to be tributes to the original Les Paul Custom Black Beauty.
 The original Classic Custom from 2007 can be seen as a tribute the <a href="https://web.archive.org/web/20230727062646/https://www.gibson.com/en-US/Electric-Guitar/CUSGJ5555/Ebony-2-Pickup" target=_blank>1957's Les Paul Custom</a>.
-
-<figure markdown="span">
-  ![Image title](https://dummyimage.com/600x400/)
-  <figcaption>
-    The crowned headstock of a Les Paul Classic Custom.
-</figcaption>
-</figure>
+The guitar also had a brass truss rod cover with the words `Les Paul` engraved on it.
 
 ### A tribute to the Les Paul Custom
 
@@ -90,7 +92,7 @@ making it one of the rarest Les Paul Classic models ever produced by Gibson.
 All these assets make the Les Paul Classic Custom a desirable guitar for collectors.
 
 <figure markdown="span">
-    ![Les Paul Classic Custom 2007](https://dummyimage.com/600x400/){ loading=lazy width="600" }
+    ![Les Paul Classic Custom 2007](img/2007-les-paul-classic-custom.jpg){ loading=lazy width="600" }
   <figcaption>
     The crowned headstock of a Les Paul Classic Custom.
 </figcaption>
@@ -168,7 +170,6 @@ The guitar was available only in a black ebony finish, with an aged binding and 
 
 The main difference between week 28 and the original Classic Custom was the pickups.
 Week 28 featured P-90s instead of humbuckers.
-The guitar also had a brass truss rod cover with the words `Les Paul` engraved on it.
 
 #### A tribute to the 1954's Black Beauty
 The two P-90 pickups on the guitar makes it a tribute to the [1954 Black Beauty](https://www.gibson.com/en-US/Electric-Guitar/CUSZ44594/Ebony).

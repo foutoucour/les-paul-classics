@@ -31,8 +31,8 @@ plugins:
 repo_name: foutoucour/les-paul-classic
 repo_url: https://github.com/foutoucour/les-paul-classic
 site_description: Gibson Les Paul Classic models
-site_name: Les Paul Classic
-site_url: https://foutoucour.github.io/les-paul-classics/
+site_name: Les Paul Classic Pedia
+site_url: https://lespaulclassicpedia.com
 theme:
   features:
     - content.code.annotate
@@ -65,6 +65,14 @@ theme:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
 nav:
   - index.md
   - Models:

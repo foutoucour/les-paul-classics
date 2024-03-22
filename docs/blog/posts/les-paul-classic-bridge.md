@@ -5,9 +5,14 @@ categories:
   - Standard Edition
 draft: true
 ---
-# Les Paul Classic Headstocks
+# Les Paul Classic bridge
 
-![Les Paul Classic Headstocks](https://dummyimage.com/1200x500/)
+<figure markdown="span">
+    ![A ABR-1 bridge](img/side-by-side-headstocks.jpg){ loading=lazy }
+    <figcaption>
+    A ABR-1 bridge.
+</figcaption>
+</figure>
 Over the years, the Les Paul Classic has been produced with different headstock designs.
 
 <!-- more -->

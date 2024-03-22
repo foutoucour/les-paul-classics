@@ -7,7 +7,12 @@ draft: true
 ---
 # Les Paul Classic Headstocks
 
-![Les Paul Classic Headstocks](https://dummyimage.com/1200x500/)
+<figure markdown="span">
+    ![Three different headstocks](img/side-by-side-headstocks.jpg){ loading=lazy }
+    <figcaption>
+    Three different headstocks of the Les Paul Classic.
+</figcaption>
+</figure>
 Over the years, the Les Paul Classic has been produced with different headstock designs.
 
 <!-- more -->
