@@ -75,10 +75,10 @@ extra:
       make our documentation better.
 nav:
   - index.md
-  - Models:
-    - models/index.md
-    - blog/posts/2007-les-paul-classic-antique.md
-    - blog/posts/2007-les-paul-classic-custom.md
+#  - Models:
+#    - models/index.md
+#    - blog/posts/2007-les-paul-classic-antique.md
+#    - blog/posts/2007-les-paul-classic-custom.md
   - Blog:
       - blog/index.md
   - resources.md

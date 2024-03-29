@@ -138,7 +138,7 @@ The finish is also called "lava burst" and featured on the CG Supreme of 2000 - 
 <figure markdown="span" >
   ![Les Paul Classic Antique week 02](img/2007-les-paul-classic-antique-week-02-body.jpg){ loading=lazy width="500"}
   <figcaption>
-    The lavaburst finish of the Les Paul Classic Antique week 02.
+    The fireburst finish of the Les Paul Classic Antique week 02.
 <br />
 source: <a href="https://fr.audiofanzine.com/guitare-lp/gibson/guitar-of-the-week-2-les-paul-classic-antique-fireburst/medias/photos/" target="_blank">Audiofanzine</a>
 </figcaption>

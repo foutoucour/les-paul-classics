@@ -34,22 +34,23 @@ I hope you will find the content presented here informative and engaging.
     Crown on the head, vintage-inspired.
 
     ---
-    [:octicons-arrow-right-24: Articles](blog/posts/2007-les-paul-classic-antique.md)
+    [:octicons-arrow-right-24: Article](blog/posts/2007-les-paul-classic-antique.md)
 
 -   :material-diamond: __Les Paul Classic Custom__
 
     Classic with a taste of custom shop.
 
     ---
-    [:octicons-arrow-right-24: Articles](blog/posts/2007-les-paul-classic-custom.md)
+    [:octicons-arrow-right-24: Article](blog/posts/2007-les-paul-classic-custom.md)
 
 -   :material-calendar-week: __Les Paul Classic Guitars of the Week__
 
     A unique guitar every week.
 
     ---
-    [:octicons-arrow-right-24: Articles](blog/category/guitar-of-the-week---gotw/)
 
+[//]: # (    [:octicons-arrow-right-24: Article]&#40;blog/category/guitar-of-the-week---gotw/&#41;)
+    WIP
 </div>
 
 ## Inventory of the Les Paul Classics

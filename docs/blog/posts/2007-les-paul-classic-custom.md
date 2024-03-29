@@ -15,13 +15,13 @@ categories:
 </figcaption>
 </figure>
 
-In 2007, **Gibson**, along with the [2007-les-paul-classic-antique.md](2007-les-paul-classic-antique.md)[Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
-The guitar was a mix of the Les Paul Custom and the Les Paul Classic, with a mahogany body and neck, a maple top, and a rosewood fingerboard.
+In 2007, **Gibson**, along with the [Les Paul Classic Antique](./2007-les-paul-classic-antique.md), released the first version of the Les Paul Classic Custom.
+The guitar was a mix of the legendary Les Paul Custom and the Les Paul Classic, with a mahogany body and neck, a maple top, and a rosewood fingerboard.
 <!-- more -->
 
 In 2007, the Les Paul Classic Custom was also part of the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
 Followed by several additional runs from 2011 to 2012 and then in 2014, with different specs.
-No classic custom was produced after 2014.
+No Classic Custom were produced after 2014.
 
 The Classic Custom shares the same distinct features as her sister: the [crown inlay on the headstock](2007-les-paul-classic-antique.md#a-royal-headstock) and the [aged binding](2007-les-paul-classic-antique.md#aged-bindings).
 
@@ -36,9 +36,9 @@ The Classic Custom shares the same distinct features as her sister: the [crown i
 All the Classic Customs have a common attribute.
 They are all close to a model the Gibson Les Paul Custom Shop produced.
 Many of them mimic the fantastic Black Beauty with an ebony finish.
-That's the reason why they wear multi-binding clothes.
+That's the reason why they wear 7-ply binding clothes.
 They look to be tributes to the original Les Paul Custom Black Beauty.
-The original Classic Custom from 2007 can be seen as a tribute the <a href="https://web.archive.org/web/20230727062646/https://www.gibson.com/en-US/Electric-Guitar/CUSGJ5555/Ebony-2-Pickup" target=_blank>1957's Les Paul Custom</a>.
+The first Classic Custom from 2007 can be seen as a tribute the <a href="https://web.archive.org/web/20230727062646/https://www.gibson.com/en-US/Electric-Guitar/CUSGJ5555/Ebony-2-Pickup" target=_blank>1957's Les Paul Custom</a>.
 The guitar also had a brass truss rod cover with the words `Les Paul` engraved on it.
 
 ### A tribute to the Les Paul Custom
@@ -49,7 +49,7 @@ For instance, the first difference was in the fretboard inlays.
 While the Black Beauty had block inlays, Classic Custom had trapezoid inlays.
 Moreover, the first case of the neck was not inlaid, unlike the Black Beauty.
 
-The Classic Custom guitar had a slim taper neck, while the Black Beauty had a 50's round C.
+The Classic Custom guitar had a slim taper neck, while the Black Beauty had a 50's medium C.
 
 The headstock was another point of differentiation.
 It had a crown inlay, while the Les Paul Custom had a split diamond inlay.
@@ -240,7 +240,12 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527185144/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%2DClassic%2DCustom%2DWeek42/)_
 
-[//]: # (TODO: Add picture of week 42)
+<figure markdown="span">
+    ![Close up of the pickups of the week 42](img/2007-les-paul-classic-custom-week-42.jpg){ loading=lazy width="500" }
+  <figcaption>
+    The week 42, exhibiting the 3 Dimarzo creme pickups.<br /> source: <a href="https://reverb.com/ca/item/74587408-gibson-les-paul-classic-custom-3-pickups-in-heritage-cherry-sunburst" target="_blank">Guitars!</a>
+  </figcaption>
+</figure>
 
 ---
 ### Week 46 - Les Paul Classic Custom w/3 Pickups
@@ -255,7 +260,12 @@ The guitar trades the aged bindings for white bindings. Gold covers hide the '57
 
     _reference: [Gibson.com](https://web.archive.org/web/20090527185144/http://www.gibson.com/en%2Dus/Divisions/Gibson%20USA/Guitar%20of%20the%20Week/LP%2DClassic%2DCustom%2DWeek42/)_
 
-[//]: # (TODO: Add picture of week 46)
+<figure markdown="span">
+    ![The week 46 in its ebony dress](img/2007-les-paul-classic-custom-week-46.jpg){ loading=lazy width="500" }
+  <figcaption>
+    The week 46, a tribute to the 3 pickups black beauty.<br /> source: <a href="https://reverb.com/ca/item/74578653-gibson-les-paul-classic-custom-2007-gotw-46" target="_blank">Reverb</a>
+  </figcaption>
+</figure>
 
 ---
 ### Les Paul Classic Custom 2011-2012
@@ -296,7 +306,7 @@ The model featured the same specs as the 2011-2012 edition.
 
 [//]: # (TODO: improve the picture somehow)
 <figure markdown="span">
-    ![Unique headstock with flower pot of the limited edition Classic Custom 2014.](img%2F2014-les-paul-classic-custom-limited-edition-flower-pot-headstock.jpg){ loading=lazy width="500" }
+    ![Unique headstock with flower pot of the limited edition Classic Custom 2014.](img/2014-les-paul-classic-custom-limited-edition-flower-pot-headstock.jpg){ loading=lazy width="500" }
   <figcaption>
     Unique headstock with flower pot of the limited edition Classic Custom 2014.<br/> source: <a href="https://www.reddit.com/r/gibson/comments/uvix81/found_this_oddball_today_at_my_local_shop_2014/" target="_blank">Reddit</a>
   </figcaption>
