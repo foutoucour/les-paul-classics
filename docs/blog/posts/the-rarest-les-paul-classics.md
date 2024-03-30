@@ -2,6 +2,7 @@
 date: 2024-04-12
 authors: [ rieraj ]
 draft: true
+comments: true
 ---
 # The rarest Les Paul Classics
 

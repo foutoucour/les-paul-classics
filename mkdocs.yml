@@ -28,9 +28,9 @@ plugins:
   - blog:
       blog_toc: true
       post_url_date_format: yyyy
-repo_name: foutoucour/les-paul-classic
-repo_url: https://github.com/foutoucour/les-paul-classic
-site_description: Gibson Les Paul Classic models
+repo_name: foutoucour/les-paul-classics
+repo_url: https://github.com/foutoucour/les-paul-classics
+site_description: Gibson Les Paul Classic models Wikipedia
 site_name: Les Paul Classic Pedia
 site_url: https://lespaulclassicpedia.com
 theme:
