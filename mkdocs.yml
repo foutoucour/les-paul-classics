@@ -75,7 +75,7 @@ extra:
       make our documentation better.
   analytics:
     provider: google
-    property: G-GJ58HFWR63
+    property: G-4KRZ9089EN
 nav:
   - index.md
 #  - Models:
