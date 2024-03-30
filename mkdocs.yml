@@ -7,8 +7,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
-  - toc:
-      toc_depth : "1-1"
+#  - toc:
+#      toc_depth : "1-1"
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:

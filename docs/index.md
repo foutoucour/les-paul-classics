@@ -1,4 +1,8 @@
-
+---
+hide:
+  - navigation
+  - toc
+---
 # Homepage
 
 [//]: # (![Les Paul Classic 1960 with Model]&#40;img/1996-Gibson-Les-Paul-Classic-consignment-12-scaled.jpg&#41;)
