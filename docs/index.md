@@ -73,5 +73,5 @@ The Classic has been produced in different versions, and each one has its own un
 Different models have been produced, and we are documenting them all.
 
 
-!!! info "Inventory of the Les Paul Classic (click to expand)"
+???+ info "Inventory of the Les Paul Classic (click to expand)"
     {{ read_yaml('./generated_guitars_classic.yml')  }}

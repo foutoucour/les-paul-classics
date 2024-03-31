@@ -21,7 +21,7 @@ with varying sets of features that were not common at this time.
 In some cases, like the Week 33, the old Gibson logo on the headstock can confuse and make you think the Guitar is
 fake. _Reference: [The "FANCY" Logo, 2007 Gibson Guitar of the Week 33 GOTW 33 Les Paul Classic Antique Review + Demo](https://www.youtube.com/watch?v=s-38AOmakes)_
 
-!!! info The 47 unique series
+???+ info The 47 unique series
     _This website is dedicated to inventorying the different Les Paul Classic models.
     We will only detail the Les Paul Classic models and provide a list of all the other models that were part of the GOTW series._
 
@@ -37,7 +37,8 @@ fake. _Reference: [The "FANCY" Logo, 2007 Gibson Guitar of the Week 33 GOTW 33 L
 ## Inventory of the Guitars Of The Week
 
 
-{{ read_yaml('./yml/inventory-guitars-of-the-week.yaml')  }}
+???+ info "Inventory of the Guitar Of The Week"
+    {{ read_yaml('./yml/inventory-guitars-of-the-week.yaml')  }}
 
 !!! note "Week 45 was skipped"
     It is often mentioned that #45 was pulled and turned into the Joan Jett signature model Melody Maker, but Gibson has not
