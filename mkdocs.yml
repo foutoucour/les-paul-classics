@@ -26,10 +26,10 @@ plugins:
   - table-reader
   - glightbox
   - blog:
-      blog_toc: true
-      post_url_date_format: yyyy
-repo_name: foutoucour/les-paul-classics
-repo_url: https://github.com/foutoucour/les-paul-classics
+#      blog_toc: true
+#      post_url_date_format: yyyy
+#repo_name: foutoucour/les-paul-classics
+#repo_url: https://github.com/foutoucour/les-paul-classics
 site_description: Gibson Les Paul Classic models
 site_name: Les Paul Classic Pedia
 site_url: https://lespaulclassicpedia.com
@@ -49,6 +49,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   name: material
+  custom_dir: overrides
   palette:
     - accent: deep-orange
       primary: black
@@ -83,7 +84,7 @@ nav:
 #    - blog/posts/2007-les-paul-classic-antique.md
 #    - blog/posts/2007-les-paul-classic-custom.md
   - Blog:
-      - blog/index.md
+    - blog/index.md
   - resources.md
 
 

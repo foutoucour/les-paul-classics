@@ -25,14 +25,19 @@ If you are an admirer of Gibson Les Paul guitars,
 I hope you will find the content presented here informative and engaging.
 
 <div class="grid cards" markdown>
--   :simple-c: __Les Paul Classic 1960__
 
-    The original model
+[//]: # (-   :simple-c: __Les Paul Classic 1960__)
 
-    ---
-[//]: # (    [:octicons-arrow-right-24: Articles]&#40;blog/category/classic-1960/&#41;)
-    WIP
+[//]: # ()
+[//]: # (    The original model)
 
+[//]: # ()
+[//]: # (    ---)
+
+[//]: # ([//]: # &#40;    [:octicons-arrow-right-24: Articles]&#40;blog/category/classic-1960/&#41;&#41;)
+[//]: # (    WIP)
+
+[//]: # ()
 -   :material-crown-outline: __Les Paul Classic Antique__
 
     Crown on the head, vintage-inspired.
@@ -47,14 +52,17 @@ I hope you will find the content presented here informative and engaging.
     ---
     [:octicons-arrow-right-24: Article](blog/posts/2007-les-paul-classic-custom.md)
 
--   :material-calendar-week: __Les Paul Classic Guitars of the Week__
+[//]: # (-   :material-calendar-week: __Les Paul Classic Guitars of the Week__)
 
-    A unique guitar every week.
+[//]: # ()
+[//]: # (    A unique guitar every week.)
 
-    ---
+[//]: # ()
+[//]: # (    ---)
 
+[//]: # ()
 [//]: # (    [:octicons-arrow-right-24: Article]&#40;blog/category/guitar-of-the-week---gotw/&#41;)
-    WIP
+[//]: # (    WIP)
 </div>
 
 ## Inventory of the Les Paul Classics

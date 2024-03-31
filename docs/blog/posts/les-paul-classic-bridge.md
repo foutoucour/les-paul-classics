@@ -1,6 +1,5 @@
 ---
 date: 2024-03-09
-authors: [ rieraj ]
 categories:
   - Standard Edition
 draft: true

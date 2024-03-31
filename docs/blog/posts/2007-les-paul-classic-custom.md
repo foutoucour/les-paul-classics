@@ -1,6 +1,5 @@
 ---
 date: 2024-02-19
-authors: [ rieraj ]
 categories:
   - Classic Custom
   - Guitar of the Week - GOTW

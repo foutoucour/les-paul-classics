@@ -1,12 +1,8 @@
 ---
 date: 2023-09-12
-authors: [ rieraj ]
 categories:
   - 1960's
 draft: true
-hide:
-  - navigation
-  - toc
 ---
 # The Paul Classic 1960's
 
