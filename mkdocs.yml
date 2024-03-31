@@ -26,13 +26,14 @@ plugins:
   - table-reader
   - glightbox
   - blog:
-#      blog_toc: true
+      blog_toc: true
 #      post_url_date_format: yyyy
-#repo_name: foutoucour/les-paul-classics
-#repo_url: https://github.com/foutoucour/les-paul-classics
-site_description: Gibson Les Paul Classic models
+repo_name: foutoucour/les-paul-classics
+repo_url: https://github.com/foutoucour/les-paul-classics
+site_description: Welcome to this website focused on the Les Paul Classic by Gibson
 site_name: Les Paul Classic Pedia
 site_url: https://lespaulclassicpedia.com
+copyright: Copyright &copy; 2023 - 2024 Jordi Riera
 theme:
   features:
     - content.code.annotate
@@ -41,6 +42,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - navigation.footer
     - search.highlight
     - search.share
     - search.suggest
@@ -66,6 +68,7 @@ theme:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - javascripts/feedback.js
 extra:
   consent:
     title: Cookie consent
@@ -77,6 +80,30 @@ extra:
   analytics:
     provider: google
     property: G-4KRZ9089EN
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="https://github.com/foutoucour/les-paul-classics/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a> (Github).
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<lespaulclassicpedia@gmail.com>
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/jordiriera_cg
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jordirieracg/
+    - icon: fontawesome/brands/pinterest
+      link: https://www.pinterest.com/jordirieracg/les-paul-classic/
+
 nav:
   - index.md
 #  - Models:
