@@ -3,7 +3,6 @@ date: 2024-02-19
 categories:
   - Classic Antique
   - Guitar of the Week - GOTW
-comments: true
 ---
 
 # The Classic Antique Family
