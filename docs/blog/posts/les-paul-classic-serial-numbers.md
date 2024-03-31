@@ -1,7 +1,8 @@
 ---
 date: 2024-03-09
 categories:
-  - Standard Edition
+  - Standard Edition'
+draft: true
 ---
 # Les Paul Classic Serial Numbers
 
