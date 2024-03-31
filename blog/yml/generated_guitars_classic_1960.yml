@@ -1,33 +1,39 @@
-- model: Les Paul Classic 1960
+- photo: "![Les Paul Classic](https://rvb-img.reverb.com/image/upload/s--RTvu8k1C--/t_card-square/v1569617910/bwomejvvavofqevhcb7b.jpg) { loading=lazy width=40 }"
+  model: Les Paul Classic
   starting: '1989'
   ending: '2008'
   link: '<a href="https://web.archive.org/web/19970127181843/http://www.gibson.com/products/gibson/1995/lpc/lpc7.html"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-electric-guitar?item_region=XX&year_min=1989&year_max=1993&sort=price_with_sale%7Casc"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
-- model: Les Paul Classic 1960 DC
+- photo: "![Les Paul Classic DC](https://rvb-img.reverb.com/image/upload/s--ihD_Cl5z--/t_card-square/v1578090856/ge9uyimnbvlq89fh1t5t.jpg) { loading=lazy width=40 }"
+  model: Les Paul Classic DC
   starting: '2003'
   ending: '2004'
   link: '<a href="https://web.archive.org/web/20030812171659/http://www.gibson.com/products/gibson/lespaul/lpcd.html"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-double-cutaway-2003-2004"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
-- model: Les Paul Classic 1960 Plus
+- photo: "![Les Paul Classic Plus](https://rvb-img.reverb.com/image/upload/s--z8DoMnMp--/t_card-square/v1569619994/o8niaqoqlibur1kzed7e.jpg) { loading=lazy width=40 }"
+  model: Les Paul Classic Plus
   starting: '1991'
   ending: '2001'
   link: '<a href="https://web.archive.org/web/19970127181849/http://www.gibson.com/products/gibson/1995/lpc/lpc8.html"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-plus"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
-- model: Les Paul Classic 1960 Premium Plus
+- photo: "![Les Paul Classic Premium Plus](https://rvb-img.reverb.com/image/upload/s--DACiQ9Sv--/t_card-square/v1569620166/gwdhj0is44y1yid5of1l.jpg) { loading=lazy width=40 }"
+  model: Les Paul Classic Premium Plus
   starting: '1993'
   ending: '2001'
   link: '<a href="https://web.archive.org/web/19970127181803/http://www.gibson.com/products/gibson/1995/lpc/lpc2.html"target="_blank">:material-folder-wrench:
     Specs</a><br /><a href="https://reverb.com/ca/p/gibson-les-paul-classic-premium-plus-1993-2001"target="_blank">:fontawesome-solid-magnifying-glass-dollar:
     reverb</a>'
-- model: Les Paul Classic 1960 Premium Plus Birdeyes
+- photo: ""
+  model: Les Paul Classic Premium Plus Birdeyes
   starting: '1997'
   ending: '1997'
   link: '<a href="https://web.archive.org/web/19970127181812/http://www.gibson.com/products/gibson/1995/lpc/lpc3.html"target="_blank">:material-folder-wrench:
     Specs</a>'
-- model: Les Paul Classic 1960 3 pickups
+- photo: ""
+  model: Les Paul Classic 3 pickups
   starting: '2003'
   ending: '2003'
   link: ''
