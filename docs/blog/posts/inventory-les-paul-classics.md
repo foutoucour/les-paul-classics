@@ -2,7 +2,6 @@
 date: 2024-04-01
 categories:
   - Standard Edition'
-draft: true
 ---
 # Inventory of the Les Paul Classics
 

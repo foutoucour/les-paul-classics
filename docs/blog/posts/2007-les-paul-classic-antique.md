@@ -8,7 +8,7 @@ categories:
 # The Classic Antique Family
 
 <figure markdown="span">
-    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-week-14-headstock-close-up-blue.jpg){ loading=lazy }
+    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-week-14-headstock-close-up-blue.jpg){ loading=lazy width=800 }
     <figcaption>
     Headstock of a Les Paul Classic Custom, first edition
 </figcaption>

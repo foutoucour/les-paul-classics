@@ -8,13 +8,6 @@ hide:
 [//]: # (![Les Paul Classic 1960 with Model]&#40;img/1996-Gibson-Les-Paul-Classic-consignment-12-scaled.jpg&#41;)
 
 
-<figure markdown="span">
-    ![A Les Paul Classic 1960, the original model](img/1989-les-paul-classic-1960-1989-butterfly-case.jpg){ loading=lazy }
-    <figcaption>
-    A Les Paul Classic 1960, the original model
-</figcaption>
-</figure>
-
 ## Welcome to the Les Paul Classic Website
 
 Welcome to this website focused on the Les Paul Classic by Gibson,
@@ -71,3 +64,10 @@ I hope you will find the content presented here informative and engaging.
 [//]: # (    [:octicons-arrow-right-24: Article]&#40;blog/category/guitar-of-the-week---gotw/&#41;)
 [//]: # (    WIP)
 </div>
+
+<figure markdown="span">
+    ![A Les Paul Classic 1960, the original model](img/1989-les-paul-classic-1960-1989-butterfly-case.jpg){ width=1000 loading=lazy }
+    <figcaption>
+    A Les Paul Classic 1960, the original model
+</figcaption>
+</figure>
