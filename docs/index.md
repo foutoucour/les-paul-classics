@@ -38,6 +38,13 @@ I hope you will find the content presented here informative and engaging.
 [//]: # (    WIP)
 
 [//]: # ()
+-   :fontawesome-regular-rectangle-list: __Inventory__
+
+    All the Les Paul Classic produced since 1989.
+
+    ---
+    [:octicons-arrow-right-24: Article](blog/posts/inventory-les-paul-classics.md)
+
 -   :material-crown-outline: __Les Paul Classic Antique__
 
     Crown on the head, vintage-inspired.
@@ -64,14 +71,3 @@ I hope you will find the content presented here informative and engaging.
 [//]: # (    [:octicons-arrow-right-24: Article]&#40;blog/category/guitar-of-the-week---gotw/&#41;)
 [//]: # (    WIP)
 </div>
-
-## Inventory of the Les Paul Classics
-
-Since the first year of production, in 1989, the Les Paul Classic has been a popular model.
-The Classic has been produced in different versions, and each one has its own unique features.
-
-Different models have been produced, and we are documenting them all.
-
-
-???+ info "Inventory of the Les Paul Classic (click to expand)"
-    {{ read_yaml('./generated_guitars_classic.yml')  }}
