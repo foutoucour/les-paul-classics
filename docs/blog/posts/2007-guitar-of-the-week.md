@@ -9,7 +9,7 @@ draft: true
 
 # All The Guitars Of The Week (GOTW)
 
-![Les Paul Classic](https://dummyimage.com/1200x500/)
+![Les Paul Classic](./img/2007-les-paul-classic-week-05-body.jpg){ loading=lazy }
 In 2007, **Gibson** did a series of limited editions called the Guitar Of The Week, also known as GOTW.
 A new limited run of 400 Guitars was presented every week on Tuesdays.
 The runs started on January 22nd with an SG Supreme Bass and finished on December 18th with a reissue of an RD Standard.
@@ -38,6 +38,7 @@ fake. _Reference: [The "FANCY" Logo, 2007 Gibson Guitar of the Week 33 GOTW 33 L
 
 
 ???+ info "Inventory of the Guitar Of The Week"
+
     {{ read_yaml('./yml/inventory-guitars-of-the-week.yaml')  }}
 
 !!! note "Week 45 was skipped"
@@ -45,6 +46,7 @@ fake. _Reference: [The "FANCY" Logo, 2007 Gibson Guitar of the Week 33 GOTW 33 L
     confirmed this.
 
     _reference: [Gibson Guitar of the Week series](https://www.everythingsg.com/threads/gibson-Guitar-of-the-week-series.37026/post-540676)_
+
 
 ## External links
 

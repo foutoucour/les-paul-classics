@@ -52,17 +52,13 @@ I hope you will find the content presented here informative and engaging.
     ---
     [:octicons-arrow-right-24: Article](blog/posts/2007-les-paul-classic-custom.md)
 
-[//]: # (-   :material-calendar-week: __Les Paul Classic Guitars of the Week__)
+-   :material-calendar-week: __Les Paul Classic Guitars of the Week__
 
-[//]: # ()
-[//]: # (    A unique guitar every week.)
+    A unique guitar every week.
 
-[//]: # ()
-[//]: # (    ---)
+    ---
 
-[//]: # ()
-[//]: # (    [:octicons-arrow-right-24: Article]&#40;blog/category/guitar-of-the-week---gotw/&#41;)
-[//]: # (    WIP)
+    [:octicons-arrow-right-24: Article](blog/posts/2007-guitar-of-the-week.md)
 </div>
 
 <figure markdown="span">
