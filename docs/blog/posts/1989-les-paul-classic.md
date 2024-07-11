@@ -12,7 +12,9 @@ draft: true
     Butterfly, a Les Paul Classic 1989, the very first year of the model.
 </figcaption>
 </figure>
-It started in 1989, with the release of the Les Paul Classic, a guitar that was designed to be a modern version of the Les Paul Standard from the 1960's.
+It started in 1989, with the release of the Les Paul Classic,
+a guitar that was designed to be a modern version of the Les Paul Standard from the 1960's.
+The Les Paul Classic starting with this model, is a tribute to iconic
 
 <!-- more -->
 
