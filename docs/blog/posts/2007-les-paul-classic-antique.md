@@ -15,24 +15,52 @@ categories:
 </figure>
 
 
-In 2007, **Gibson**, along the [Les Paul Classic Custom](./2007-les-paul-classic-custom.md) did a short run of Les Paul
-Classic Antique models.
-The Les Paul Classic Antique has a crown on the headstock
-and an aged binding on the body and neck.
-<!-- more -->
-
-The regular edition of Les Paul Classic Antique was produced between 2007 and 2008.
-In 2007, the Les Paul Classic Antique was also part of
-the [Guitar Of The Week](blog/category/guitar-of-the-week---gotw/) series.
-
+In 2007, Gibson produced The Les Paul Antique and the Les Paul Classic Custom, two unique series of the well-known Les Paul Classic.
+The Les Paul Classic Antique has a flamed maple top, a crown on the headstock, and an aged binding on the body and neck.
+The Les Paul Classic Antique was produced between 2007 and 2008.
+In 2007, Gibson produced several limited runs during the Guitar Of The Week event.
 All the Antique come initially with a Hardshell With a Black Reptile Pattern with a white interior.
 
-## A royal headstock
+### Flamed Maple Top
+The antiques are tributes to the iconic Les Paul Standard produced before it.
+The model has a flamed maple top and is available in three finishes: Honeyburst, Heritage Cherry Sunburst, and Vintage Sunburst.
+The top can vary from a calm, subtle dancing top to a stripped, apparent flame one.
 
-Typically, the headstock of a Gibson USA Les Paul Classic has a silk screen with "Les Paul Model" written on it.
-The Gibson Custom Shop has a split diamond inlay.
-The Classic Antique wears a crown that replaces the silk screen.
-This crown is not a unique feature. It can also be found on the SG or ES models.
+The model is not advertised as weight-relieved, but it is expected to be under 8 lbs, which is low for a Les Paul.
+It is associated with high-quality wood that was used at this time.
+The lightweight keeps a great sound and sustain, as expected from a Les Paul.
+
+### Slim taper Neck
+The Les Paul Classics are well known for their neck—a modern profile replicating the [1960 Les Paul "Burst"](https://www.youtube.com/watch?v=o3NuN9-T184&ab_channel=fivewattworld).
+It is the slimmer neck from Gibson's production.
+The first fret is commonly around 0.8 to 0.9 inches, and the 12th fret is close to 1.00 inches but rarely more.
+The rosewood fingerboard is decorated with vintage bindings and pearloid trapezoid inlays.
+
+### Royal Headstock
+Unlike regular Classics, the head is enlightened with vintage bindings, continuing the neck decoration.
+The `Les Paul` silk screen is replaced in the middle of the headstock by the holy crown found on SG or ES models.
+
+<figure markdown="span">
+    ![Head of a Les Paul Classic Antique, first edition](img/2007-les-paul-classic-antique-week-14-headstock-close-up-blue.jpg){ loading=lazy width=600 }
+    <figcaption>
+    Headstock, with the Holy Crown
+</figcaption>
+</figure>
+
+## Aged bindings
+The antique refers to an aged guitar that comes from the past.
+The binding on the body and the neck has a yellow tint to mimic what happens to the binding over time.
+The light tints the varnish on vintage guitars over the years. The lacquer turns yellow.
+It is more evident in the biding as it is white or cream. However,  the entire guitar is affected by aging. On the Antique, the aging effect is only applied to the binding.
+
+<figure markdown="span">
+  ![aged binding](img/side-by-side-week-14-honey-close-up.jpg){ loading=lazy width="500" }
+  <figcaption>
+    On the left is a natural binding on a current Les Paul Classic.
+    <br/>
+    On the right, aged binding on antique on a GOTW#14.
+</figcaption>
+</figure>
 
 <figure markdown="span">
     ![Head of a Les Paul Classic Antique, first edition](img/side-by-side-headstock-week-14-honey.jpg){ loading=lazy width="500" }
@@ -50,15 +78,6 @@ The binding on the body and the neck has a yellow tint to mimic what happens to 
 The light has tinted the lacquer on vintage guitars over the years.
 The lacquer turns yellow.
 It is more evident in the biding as it is white or cream. However,  the entire guitar is affected by aging. On the Antique, the aging effect is only applied to the binding.
-
-<figure markdown="span">
-  ![aged binding](img/side-by-side-week-14-honey-close-up.jpg){ loading=lazy width="500" }
-  <figcaption>
-    On the left is a natural binding on a current Les Paul Classic.
-    <br/>
-    On the right, aged binding on antique on a GOTW#14.
-</figcaption>
-</figure>
 
 
 ## Inventory of the Les Paul Classic Antique
@@ -128,6 +147,7 @@ It comes in three different finishes: [Honey burst](img/2007-les-paul-classic-an
     _reference: [Gibson.com](https://web.archive.org/web/20080724043054/http://www.gibson.com/en-us/Divisions/Gibson%20USA/Guitars/LesPaul/Classics/Les%20Paul%20Classic%20Antique/)_
 
 
+## Limited editions
 ---
 ### Guitar Of The Week 02 - Les Paul Classic Antique - fireburst
 
@@ -178,10 +198,23 @@ by Tom Morgan. The finishing is sometimes called Tom Morgan Lava. The back is pa
 ---
 ### Guitar Of The Week 14 - Les Paul Classic Antique - H90
 
-For Week 14, The Les Paul Classic Antique is updated with unique H-90 pickups and an Iced Tea Sunburst finish on a
-figured maple top. Gibson's H-90 stacked double coil pickup results from a close collaboration
-with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90 but with none of the
-60-cycle hum that usually plagues traditional single-coil pickups.
+The Gibson Les Paul Classic Antique Guitar Of The Week #14,
+a part of the unique [Guitar Of The Week](./2007-guitar-of-the-week.md) event, is rare, with only 400 produced.
+This one-shot event, organized by Gibson in 2007, introduced a new and unique model every week alongside their regular production.
+We can compare the Guitar Of The Week to the current [Mod Collection](https://www.gibson.com/en-US/Collection/gibson-mod).
+On April 24th, in the 14th week, this [Classic Antique](./2007-les-paul-classic-antique.md) was added to the list, the fourth Antique, following the regular, week#02, week#05.
+Three more models joined the family in weeks #19, #27, and #33, all in the same year, making it a limited and exclusive addition to any collection.
+
+The Gibson Les Paul Classic Antique Guitar Of The Week #14 stands out among the several Les Paul Classics in Gibson's regular production.
+It inherits the iconic Les Paul Classic 1960s' and the Les [Les Paul Classic Custom](./2007-les-paul-classic-custom.md), but what truly sets it apart is its unique and exciting features, making it a must-have addition to any collection.
+
+[//]: # (For Week 14, The Les Paul Classic Antique is updated with unique H-90 pickups and an Iced Tea Sunburst finish on a)
+
+[//]: # (figured maple top. Gibson's H-90 stacked double coil pickup results from a close collaboration)
+
+[//]: # (with Billie Joe Armstrong. It offers the snarl and punch of a classic, vintage P-90 but with none of the)
+
+[//]: # (60-cycle hum that usually plagues traditional single-coil pickups.)
 
 <figure markdown="span" >
   ![Les Paul Classic Antique week 14](img/2007-les-paul-classic-antique-week-14.jpg){ loading=lazy width="500"}
