@@ -4,7 +4,6 @@ categories:
   - Guitar of the Week - GOTW
   - Classic Custom
   - Classic Antique
-draft: true
 ---
 
 # All The Guitars Of The Week (GOTW)
